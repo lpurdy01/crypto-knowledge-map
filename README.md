@@ -6,7 +6,7 @@
  https://obsidian.md/
  Obsidian is a fantastic note taking app that allows for the visualization of links between concepts. Its main special feature is the ability to view relationships between notes as an interactive graph. This greatly enhances the ability to see relations between concepts and explore a concept space. 
  
- ![this repo](WholeGraph.png)
+ ![this repo](wholegraph.png)
  
 # How to Use and Improve
 To use, clone this git repository and open it as a vault from within Obsidian. That's it.
