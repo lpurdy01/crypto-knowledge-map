@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a86654dad9332337",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e33d49f986d1762",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "An update on security.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1330800829ad1720",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8311da915663fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af20a86bd855782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6676e29f99bffb8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78b0041635543ed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb862422144cd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09fe4b6275023c29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "An update on security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e33d49f986d1762",
+  "lastOpenFiles": [
+    "An update on security.md",
+    "Other tokens exist.md",
+    "A bit about passwords, logins, 2 factor authentication.md",
+    "How Ethereum is valued a bit differently because it has a utility (Burn Rate).md",
+    "The blockchain security trilemma.md",
+    "S adoption curves.md",
+    "Ledger.md",
+    "Security concerns for exchanges (hot wallets).md",
+    "consesnus mechinism.md",
+    "How the US government views crypto assets.md"
+  ]
+}
