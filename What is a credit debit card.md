@@ -1,5 +1,5 @@
 # Prerequisites
-[[What is money]][[How the US system works]]
+[[What is money]][[How the US monetary system works]]
 
 # Description
   

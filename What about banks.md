@@ -1,5 +1,5 @@
 # Prerequisites
-[[How the US system works]][[What is an exchange]][[What is self custody]][[What is a layer 2]][[What is a credit debit card]]
+[[How the US monetary system works]][[What is an exchange]][[What is self custody]][[What is a layer 2]][[What is a credit debit card]]
 
 # Description
   

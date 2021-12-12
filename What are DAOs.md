@@ -1,5 +1,5 @@
 # Prerequisites
-[[consesnus mechinism]][[What are Seeds and public private keys]][[Ethereum]][[What are smart contracts]]
+[[What is a consensus mechanism]][[What are Seeds and public private keys]][[What is Ethereum]][[What are smart contracts]]
 
 # Description
   

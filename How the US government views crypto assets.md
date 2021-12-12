@@ -2,7 +2,8 @@
 [[What is property]]
 
 # Description
-Cryptocurrencies are not currently viewed as securities by the US government. However, this could change in the future as the government continues to evaluate the role of crypto assets in the economy.
+
+The US government views cryptocurrencies as property. This is because they are not considered to be currency. The government believes that cryptocurrencies should be taxed as property because they are not considered to be money.
 
 # Links
 Links to other educational resources here:

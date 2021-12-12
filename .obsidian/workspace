@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "An update on security.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "An update on security.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e33d49f986d1762",
   "lastOpenFiles": [
-    "An update on security.md",
-    "Other tokens exist.md",
-    "A bit about passwords, logins, 2 factor authentication.md",
-    "How Ethereum is valued a bit differently because it has a utility (Burn Rate).md",
-    "The blockchain security trilemma.md",
-    "S adoption curves.md",
-    "Ledger.md",
+    "README.md",
+    "WholeGraph.PNG",
     "Security concerns for exchanges (hot wallets).md",
-    "consesnus mechinism.md",
-    "How the US government views crypto assets.md"
+    "An update on security.md",
+    "BASE TOPIC FORMAT.md",
+    "Some more resources to use.md",
+    "What is Bitcoin.md",
+    "What's going on with El Salvador.md",
+    "What is the lightning network.md",
+    "What is self custody.md"
   ]
 }

@@ -1,5 +1,5 @@
 # Prerequisites
-[[Blockchain]][[Distributed Storage]]
+[[What is a Blockchain]][[What is distributed storage]]
 
 # Description
   

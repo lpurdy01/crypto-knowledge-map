@@ -1,5 +1,5 @@
 # Prerequisites
-[[How does this system change]]
+[[How do cryptocurrencies change]]
 
 # Description
   

@@ -1,5 +1,5 @@
 # Prerequisites
-[[What are Seeds and public private keys]][[What is a wallet hot and cold]][[What is Bitcoin]]
+[[What are Seeds and public private keys]][[What is a wallet hot and cold]][[What is Bitcoin]][[What is an exchange]]
 
 # Description
   
