@@ -1,5 +1,5 @@
 # Prerequisites
-[[What are Seeds and public private keys]][[How a transaction works]][[What is self custody]][[An update on security]]
+[[What are Seeds and public private keys]][[How a transaction works]][[What is self custody]][[Update on security]]
 
 # Description
   

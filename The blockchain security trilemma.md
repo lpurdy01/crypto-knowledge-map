@@ -1,5 +1,5 @@
 # Prerequisites
-[[An update on security]][[Security concerns for the whole network (governments)]]
+[[Update on security]][[Security concerns for the whole network (governments)]]
 
 # Description
   

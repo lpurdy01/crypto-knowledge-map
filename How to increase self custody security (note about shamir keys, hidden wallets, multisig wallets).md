@@ -1,5 +1,5 @@
 # Prerequisites
-[[What is self custody]][[An update on security]][[Security concerns for self custody (cold wallets) (The $5 wrench attack)]]
+[[What is self custody]][[Update on security]][[Security concerns for self custody (cold wallets) (The $5 wrench attack)]]
 
 # Description
   

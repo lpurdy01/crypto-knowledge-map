@@ -9,10 +9,12 @@
  ![this repo](wholegraph.png)
  
 # How to Use and Improve
-To use, clone this git repository and open it as a vault from within Obsidian. That's it.
+To use, fork and clone this git repository and open it as a vault from within Obsidian. That's it.
 
 
 Please add links to useful references, add useful descriptions of topics, and add pull requests back to this repository so it can improve. The goal of this repo is to become a starting point for someone to learn about crypto, but also be able to expand with them as they want to incorporate more information. 
+
+Go ahead and get started at [[A learning order]]
 
 # Expected Base Format
 You can find an example layout for a topic at [[BASE TOPIC FORMAT]].

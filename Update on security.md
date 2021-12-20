@@ -1,5 +1,5 @@
 # Prerequisites
-[[A bit about passwords, logins, 2 factor authentication]][[What is self custody]][[README]]
+[[Passwords, logins, 2 factor authentication]][[What is self custody]]
 
 # Description
   

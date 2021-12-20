@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "A learning order.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A learning order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e33d49f986d1762",
   "lastOpenFiles": [
+    "A learning order.md",
     "README.md",
+    "Update on security.md",
+    "What is Bitcoin's monetary policy.md",
+    "How the US government views crypto assets.md",
+    "base topic format.md",
+    "Passwords, logins, 2 factor authentication.md",
     "wholegraph.png",
     "What is a Ledger.md",
-    "What is Bitcoin.md",
-    "WholeGraph.PNG",
-    "Security concerns for exchanges (hot wallets).md",
-    "An update on security.md",
-    "BASE TOPIC FORMAT.md",
-    "Some more resources to use.md",
-    "What's going on with El Salvador.md"
+    "What is Bitcoin.md"
   ]
 }
