@@ -6,3 +6,5 @@ Bitcoin is a cryptocurrency and a payment system, first proposed by an anonymous
 
 # Links
 Links to other educational resources here:
+
+Bitcoin GitHub Repository: https://github.com/bitcoin

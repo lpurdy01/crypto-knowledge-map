@@ -2,12 +2,12 @@ The mesh of ideas to learn can be a little daunting, so here is a bit of a tier 
 
 # Base Concepts
 [[README]]
+[[What is git]]
 [[What is a Ledger]]
 [[What is distributed storage]]
 [[what is cryptography]]
 [[What is money]]
 [[How supply and demand works]]
-[[What is git]]
 
 # Blockchain epiphany
 [[What is a Blockchain]]
