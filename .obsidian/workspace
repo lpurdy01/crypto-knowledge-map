@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/A learning order.md",
+            "file": "notes/a_base_concepts/How supply and demand works.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/A learning order.md",
+                "file": "notes/a_base_concepts/How supply and demand works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e33d49f986d1762",
   "lastOpenFiles": [
+    "notes/a_base_concepts/How supply and demand works.md",
     "notes/A learning order.md",
+    "web_resources/webpage_methods_notes.md",
+    "notes/a_base_concepts/what is cryptography.md",
+    "README.md",
+    "notes/c_realization_details/What is an S adoption curve.md",
     "notes/Some more resources to use.md",
     "notes/g_the_smart_lineage/What are smart contracts.md",
     "notes/i_change/How Etherium can change.md",
-    "notes/a_base_concepts/What is git.md",
-    "notes/e_bitcoin_details/How a transaction works.md",
-    "wholegraph.png",
-    "README.md",
-    "base topic format.md",
-    "web_resources/webpage_methods_notes.md"
+    "notes/a_base_concepts/What is git.md"
   ]
 }

@@ -1,0 +1,13 @@
+site_name: crypto-knowledge-map
+repo_url: https://github.com/lpurdy01/crypto-knowledge-map
+site_author: Levi Purdy
+docs_dir: ../notes
+theme:
+  name: material
+markdown_extensions:
+  - wikilinks
+  - toc:
+      separator: "_"
+nav:
+  - Learning_Order: "A learning order.md"
+  - 'What is a Ledger': "What is a Ledger.md"
