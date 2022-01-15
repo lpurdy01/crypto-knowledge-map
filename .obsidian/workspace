@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A learning order.md",
+            "file": "notes/A learning order.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A learning order.md",
+                "file": "notes/A learning order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e33d49f986d1762",
   "lastOpenFiles": [
-    "A learning order.md",
-    "How a transaction works.md",
-    "How do cryptocurrencies change.md",
-    "Other tokens exist.md",
-    "What is mining.md",
-    "What's going on with El Salvador.md",
-    "What is a Ledger.md",
-    "Security concerns for self custody (cold wallets) (The $5 wrench attack).md",
-    "Security concerns for exchanges (hot wallets).md",
-    "README.md"
+    "notes/A learning order.md",
+    "notes/Some more resources to use.md",
+    "notes/g_the_smart_lineage/What are smart contracts.md",
+    "notes/i_change/How Etherium can change.md",
+    "notes/a_base_concepts/What is git.md",
+    "notes/e_bitcoin_details/How a transaction works.md",
+    "wholegraph.png",
+    "README.md",
+    "base topic format.md",
+    "web_resources/webpage_methods_notes.md"
   ]
 }

@@ -44,7 +44,7 @@ The mesh of ideas to learn can be a little daunting, so here is a bit of a tier 
 # The 'smart' lineage
 [[What are smart contracts]]
 [[What is Ethereum]]
-[[what is defi]]
+[[What is defi]]
 [[What is a DEX]]
 [[What are NFTs]]
 [[What are oracles]]

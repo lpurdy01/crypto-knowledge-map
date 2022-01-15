@@ -17,7 +17,7 @@ Please add links to useful references, add useful descriptions of topics, and ad
 Go ahead and get started at [[A learning order]]
 
 # Expected Base Format
-You can find an example layout for a topic at [[BASE TOPIC FORMAT]].
+You can find an example layout for a topic at [[base topic format]].
 
 
 To get a new section started simply copy and paste then edit to your liking. 
