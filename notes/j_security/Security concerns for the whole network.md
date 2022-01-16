@@ -1,5 +1,14 @@
 # Prerequisites
-[[What is mining]][[What is Bitcoin]][[How a transaction works]][[What can go wrong with a transaction]]
+[[What is mining]]
+
+
+[[What is Bitcoin]]
+
+
+[[How a transaction works]]
+
+
+[[What can go wrong with a transaction]]
 
 # Description
   

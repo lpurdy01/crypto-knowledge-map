@@ -1,5 +1,11 @@
 # Prerequisites
-[[What is git]][[What is an update (BIPs)]][[What is a hard fork]]
+[[What is git]]
+
+
+[[What is an update (BIPs)]]
+
+
+[[What is a hard fork]]
 
 # Description
   

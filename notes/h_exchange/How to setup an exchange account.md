@@ -1,5 +1,8 @@
 # Prerequisites
-[[What is an exchange]][[Passwords, logins, 2 factor authentication]]
+[[What is an exchange]]
+
+
+[[Passwords, logins, 2 factor authentication]]
 
 # Description
   

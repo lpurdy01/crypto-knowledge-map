@@ -1,5 +1,14 @@
 # Prerequisites
-[[What is a wallet hot and cold]][[How supply and demand works]][[What are markets]][[What is an exchange]]
+[[What is a wallet hot and cold]]
+
+
+[[How supply and demand works]]
+
+
+[[What are markets]]
+
+
+[[What is an exchange]]
 
 # Description
   

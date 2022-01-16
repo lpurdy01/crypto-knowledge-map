@@ -1,5 +1,8 @@
 # Prerequisites
-[[What is Ethereum]][[How Etherium can change]]
+[[What is Ethereum]]
+
+
+[[How Etherium can change]]
 
 # Description
   

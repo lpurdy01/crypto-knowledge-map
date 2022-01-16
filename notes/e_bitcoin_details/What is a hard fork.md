@@ -1,5 +1,14 @@
 # Prerequisites
-[[What is a Blockchain]][[What is a consensus mechanism]][[What is git]][[What is an update (BIPs)]]
+[[What is a Blockchain]]
+
+
+[[What is a consensus mechanism]]
+
+
+[[What is git]]
+
+
+[[What is an update (BIPs)]]
 
 # Description
   

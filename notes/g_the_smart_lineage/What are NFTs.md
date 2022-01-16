@@ -1,5 +1,8 @@
 # Prerequisites
-[[What are smart contracts]][[What is property]]
+[[What are smart contracts]]
+
+
+[[What is property]]
 
 # Description
   

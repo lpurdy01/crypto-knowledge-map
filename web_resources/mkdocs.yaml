@@ -1,7 +1,7 @@
 site_name: crypto-knowledge-map
 repo_url: https://github.com/lpurdy01/crypto-knowledge-map
 site_author: Levi Purdy
-docs_dir: ../notes
+docs_dir: md_files
 theme:
   name: material
 markdown_extensions:
@@ -9,5 +9,68 @@ markdown_extensions:
   - toc:
       separator: "_"
 nav:
-  - Learning_Order: "A learning order.md"
-  - 'What is a Ledger': "What is a Ledger.md"
+  - Learning Order: A_learning_order.md
+  - README.md
+  - How_Ethereum_is_valued_a_bit_differently_because_it_has_a_utility_Burn_Rate.md
+  - How_Etherium_can_change.md
+  - How_a_transaction_works.md
+  - How_do_cryptocurrencies_change.md
+  - How_supply_and_demand_works.md
+  - How_the_US_government_views_crypto_assets.md
+  - How_the_US_monetary_system_works.md
+  - How_to_increase_self_custody_security_note_about_shamir_keys_hidden_wallets_multisig_wallets.md
+  - How_to_keep_up_with_change.md
+  - How_to_setup_a_wallet.md
+  - How_to_setup_an_exchange_account.md
+  - Other_tokens_exist.md
+  - Passwords_logins_2_factor_authentication.md
+  - Proof_of_stake_vs_mining.md
+  - Security_concerns_for_exchanges_hot_wallets.md
+  - Security_concerns_for_self_custody.md
+  - Security_concerns_for_the_whole_network_governments.md
+  - Some_more_resources_to_use.md
+  - The_blockchain_security_trilemma.md
+  - Update_on_security.md
+  - What_about_banks.md
+  - What_about_cross_chain.md
+  - What_are_DAOs.md
+  - What_are_NFTs.md
+  - What_are_Seeds_and_public_private_keys.md
+  - What_are_markets.md
+  - What_are_oracles.md
+  - What_are_smart_contracts.md
+  - What_are_stablecoins.md
+  - What_are_the_tax_implications.md
+  - What_can_go_wrong_with_a_transaction.md
+  - What_is_Bitcoin.md
+  - What_is_Bitcoins_monetary_policy.md
+  - What_is_Ethereum.md
+  - What_is_a_Blockchain.md
+  - What_is_a_Blockchain_explorer.md
+  - What_is_a_DEX.md
+  - What_is_a_Ledger.md
+  - What_is_a_consensus_mechanism.md
+  - What_is_a_credit_debit_card.md
+  - What_is_a_hard_fork.md
+  - What_is_a_layer_2.md
+  - What_is_a_wallet_hot_and_cold.md
+  - What_is_an_S_adoption_curve.md
+  - What_is_an_exchange.md
+  - What_is_an_update_BIPs.md
+  - What_is_cryptography.md
+  - What_is_defi.md
+  - What_is_distributed_storage.md
+  - What_is_git.md
+  - What_is_mining.md
+  - What_is_money.md
+  - What_is_money_printing.md
+  - What_is_property.md
+  - What_is_self_custody.md
+  - What_is_the_lightning_network.md
+  - Whats_going_on_with_El_Salvador.md
+  - base_topic_format.md
+  - webpage_methods_notes.md
+
+
+
+

@@ -1,5 +1,8 @@
 # Prerequisites
-[[What is money]][[What is money printing]]
+[[What is money]]
+
+
+[[What is money printing]]
 
 # Description
   

@@ -1,5 +1,14 @@
 # Prerequisites
-[[What are the tax implications]][[How the US government views crypto assets]][[What is the lightning network]][[What is money]]
+[[What are the tax implications]]
+
+
+[[How the US government views crypto assets]]
+
+
+[[What is the lightning network]]
+
+
+[[What is money]]
 
 # Description
   

@@ -1,5 +1,23 @@
 # Prerequisites
-[[What is a consensus mechanism]][[What is property]][[What is mining]][[How a transaction works]][[What is Ethereum]][[What are smart contracts]][[What are DAOs]]
+[[What is a consensus mechanism]]
+
+
+[[What is property]]
+
+
+[[What is mining]]
+
+
+[[How a transaction works]]
+
+
+[[What is Ethereum]]
+
+
+[[What are smart contracts]]
+
+
+[[What are DAOs]]
 
 # Description
   

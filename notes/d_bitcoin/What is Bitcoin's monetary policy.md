@@ -1,5 +1,17 @@
 # Prerequisites
-[[Blockchain][[What is mining]][[What is money printing]][[What is a wallet hot and cold]][[What is Bitcoin]]
+[[Blockchain]]
+
+
+[[What is mining]]
+
+
+[[What is money printing]]
+
+
+[[What is a wallet hot and cold]]
+
+
+[[What is Bitcoin]]
 
 # Description
   

@@ -1,5 +1,20 @@
 # Prerequisites
-[[What is git]][[What is an update (BIPs)]][[What is a hard fork]][[How to keep up with change]][[What is Ethereum]][[What are smart contracts]]
+[[What is git]]
+
+
+[[What is an update (BIPs)]]
+
+
+[[What is a hard fork]]
+
+
+[[How to keep up with change]]
+
+
+[[What is Ethereum]]
+
+
+[[What are smart contracts]]
 
 # Description
   

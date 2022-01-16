@@ -1,5 +1,17 @@
 # Prerequisites
-[[What is a wallet hot and cold]][[How a transaction works]][[What can go wrong with a transaction]][[What is a Blockchain explorer]][[How to setup an exchange account]]
+[[What is a wallet hot and cold]]
+
+
+[[How a transaction works]]
+
+
+[[What can go wrong with a transaction]]
+
+
+[[What is a Blockchain explorer]]
+
+
+[[How to setup an exchange account]]
 
 # Description
   
