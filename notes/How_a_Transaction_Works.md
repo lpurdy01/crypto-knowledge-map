@@ -20,21 +20,21 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"How_a_Transaction_Works"}
-2["What is a Blockchain"]-->0{"How_a_Transaction_Works"}
-3["What is Distributed Storage"]-->0{"How_a_Transaction_Works"}
-4["What is a Consensus Mechanism"]-->0{"How_a_Transaction_Works"}
-5["What are Seeds and Public Private Keys"]-->0{"How_a_Transaction_Works"}
-6["How to Setup a Wallet"]-->0{"How_a_Transaction_Works"}
-0{"How_a_Transaction_Works"}-->7["How Ethereum Is Valued Differently"]
-0{"How_a_Transaction_Works"}-->8["Security Concerns For the Whole Network"]
-0{"How_a_Transaction_Works"}-->9["What is Self Custody"]
-0{"How_a_Transaction_Works"}-->10["What is an Exchange"]
-0{"How_a_Transaction_Works"}-->11["What Can Go Wrong With a Transaction"]
-0{"How_a_Transaction_Works"}-->12["Proof of Stake vs Mining"]
-0{"How_a_Transaction_Works"}-->13["Security Concerns For Self Custody"]
-0{"How_a_Transaction_Works"}-->14["What is a Layer 2"]
-0{"How_a_Transaction_Works"}-->15["What are Smart Contracts"]
+1["What is a Ledger"]-->0{"How a Transaction Works"}
+2["What is a Blockchain"]-->0{"How a Transaction Works"}
+3["What is Distributed Storage"]-->0{"How a Transaction Works"}
+4["What is a Consensus Mechanism"]-->0{"How a Transaction Works"}
+5["What are Seeds and Public Private Keys"]-->0{"How a Transaction Works"}
+6["How to Setup a Wallet"]-->0{"How a Transaction Works"}
+0{"How a Transaction Works"}-->7["How Ethereum Is Valued Differently"]
+0{"How a Transaction Works"}-->8["Security Concerns For the Whole Network"]
+0{"How a Transaction Works"}-->9["What is Self Custody"]
+0{"How a Transaction Works"}-->10["What is an Exchange"]
+0{"How a Transaction Works"}-->11["What Can Go Wrong With a Transaction"]
+0{"How a Transaction Works"}-->12["Proof of Stake vs Mining"]
+0{"How a Transaction Works"}-->13["Security Concerns For Self Custody"]
+0{"How a Transaction Works"}-->14["What is a Layer 2"]
+0{"How a Transaction Works"}-->15["What are Smart Contracts"]
 ```
 
 

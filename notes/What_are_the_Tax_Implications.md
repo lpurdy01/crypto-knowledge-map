@@ -5,8 +5,8 @@
 
 ```mermaid
 graph LR
-1["How the US Government Views Crypto Assets"]-->0{"What_are_the_Tax_Implications"}
-0{"What_are_the_Tax_Implications"}-->2["Whats Going On With El Salvador"]
+1["How the US Government Views Crypto Assets"]-->0{"What are the Tax Implications"}
+0{"What are the Tax Implications"}-->2["Whats Going On With El Salvador"]
 ```
 
 

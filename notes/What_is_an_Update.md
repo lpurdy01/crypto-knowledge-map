@@ -5,10 +5,10 @@
 
 ```mermaid
 graph LR
-1["What is Bitcoin"]-->0{"What_is_an_Update"}
-0{"What_is_an_Update"}-->2["How Etherium Can Change"]
-0{"What_is_an_Update"}-->3["What is a Hard Fork"]
-0{"What_is_an_Update"}-->4["How Do Cryptocurrencies Change"]
+1["What is Bitcoin"]-->0{"What is an Update"}
+0{"What is an Update"}-->2["How Etherium Can Change"]
+0{"What is an Update"}-->3["What is a Hard Fork"]
+0{"What is an Update"}-->4["How Do Cryptocurrencies Change"]
 ```
 
 

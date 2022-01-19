@@ -5,10 +5,10 @@ None
 
 ```mermaid
 graph LR
-0{"How_Supply_and_Demand_Works"}-->1["What is a DEX"]
-0{"How_Supply_and_Demand_Works"}-->2["How Ethereum Is Valued Differently"]
-0{"How_Supply_and_Demand_Works"}-->3["What is an Exchange"]
-0{"How_Supply_and_Demand_Works"}-->4["What are Markets"]
+0{"How Supply and Demand Works"}-->1["What is a DEX"]
+0{"How Supply and Demand Works"}-->2["How Ethereum Is Valued Differently"]
+0{"How Supply and Demand Works"}-->3["What is an Exchange"]
+0{"How Supply and Demand Works"}-->4["What are Markets"]
 ```
 
 

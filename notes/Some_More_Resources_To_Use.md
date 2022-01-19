@@ -8,7 +8,7 @@ None
 
 ```mermaid
 graph LR
-1["README"]-->0{"Some_More_Resources_To_Use"}
+1["README"]-->0{"Some More Resources To Use"}
 ```
 
 

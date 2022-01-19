@@ -5,9 +5,9 @@
 
 ```mermaid
 graph LR
-1["How Do Cryptocurrencies Change"]-->0{"How_to_Keep_Up_With_Change"}
-0{"How_to_Keep_Up_With_Change"}-->2["How Etherium Can Change"]
-0{"How_to_Keep_Up_With_Change"}-->3["What is the Lightning Network"]
+1["How Do Cryptocurrencies Change"]-->0{"How to Keep Up With Change"}
+0{"How to Keep Up With Change"}-->2["How Etherium Can Change"]
+0{"How to Keep Up With Change"}-->3["What is the Lightning Network"]
 ```
 
 

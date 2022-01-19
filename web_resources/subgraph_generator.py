@@ -125,7 +125,8 @@ def generate_subgraph(wikilinks, file_name, backlinks):
     connected_iterator = 1
     current_page_id = 0
     # use expected file name
-    current_page_name = str(current_page_id)+'{\"'+gen_expected_filename(file_name)+'\"}'
+    readable_file_name = file_name.replace('_', ' ')
+    current_page_name = str(current_page_id)+'{\"'+gen_expected_filename(readable_file_name)+'\"}'
 
     graph = "```mermaid\ngraph LR\n"
     for link in wikilinks:

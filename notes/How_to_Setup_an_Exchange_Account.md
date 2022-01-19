@@ -8,9 +8,9 @@
 
 ```mermaid
 graph LR
-1["What is an Exchange"]-->0{"How_to_Setup_an_Exchange_Account"}
-2["Passwords Logins 2 Factor Authentication"]-->0{"How_to_Setup_an_Exchange_Account"}
-0{"How_to_Setup_an_Exchange_Account"}-->3["What is Self Custody"]
+1["What is an Exchange"]-->0{"How to Setup an Exchange Account"}
+2["Passwords Logins 2 Factor Authentication"]-->0{"How to Setup an Exchange Account"}
+0{"How to Setup an Exchange Account"}-->3["What is Self Custody"]
 ```
 
 

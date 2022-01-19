@@ -8,11 +8,11 @@
 
 ```mermaid
 graph LR
-1["What is Money"]-->0{"How_the_US_Monetary_System_Works"}
-2["What is Money Printing"]-->0{"How_the_US_Monetary_System_Works"}
-0{"How_the_US_Monetary_System_Works"}-->3["What About Banks"]
-0{"How_the_US_Monetary_System_Works"}-->4["What is a Credit or Debit Card"]
-0{"How_the_US_Monetary_System_Works"}-->5["What is a Layer 2"]
+1["What is Money"]-->0{"How the US Monetary System Works"}
+2["What is Money Printing"]-->0{"How the US Monetary System Works"}
+0{"How the US Monetary System Works"}-->3["What About Banks"]
+0{"How the US Monetary System Works"}-->4["What is a Credit or Debit Card"]
+0{"How the US Monetary System Works"}-->5["What is a Layer 2"]
 ```
 
 

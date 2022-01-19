@@ -5,14 +5,14 @@ None
 
 ```mermaid
 graph LR
-0{"What_is_Money"}-->1["How Ethereum Is Valued Differently"]
-0{"What_is_Money"}-->2["What is a Credit or Debit Card"]
-0{"What_is_Money"}-->3["Whats Going On With El Salvador"]
-0{"What_is_Money"}-->4["How the US Monetary System Works"]
-0{"What_is_Money"}-->5["How the US Monetary System Works"]
-0{"What_is_Money"}-->6["What is a Layer 2"]
-0{"What_is_Money"}-->7["What is Bitcoins Monetary Policy"]
-0{"What_is_Money"}-->8["What is Money Printing"]
+0{"What is Money"}-->1["How Ethereum Is Valued Differently"]
+0{"What is Money"}-->2["What is a Credit or Debit Card"]
+0{"What is Money"}-->3["Whats Going On With El Salvador"]
+0{"What is Money"}-->4["How the US Monetary System Works"]
+0{"What is Money"}-->5["How the US Monetary System Works"]
+0{"What is Money"}-->6["What is a Layer 2"]
+0{"What is Money"}-->7["What is Bitcoins Monetary Policy"]
+0{"What is Money"}-->8["What is Money Printing"]
 ```
 
 

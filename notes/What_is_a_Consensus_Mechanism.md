@@ -8,16 +8,16 @@
 
 ```mermaid
 graph LR
-1["What is Distributed Storage"]-->0{"What_is_a_Consensus_Mechanism"}
-0{"What_is_a_Consensus_Mechanism"}-->2["What is an S Adoption Curve"]
-0{"What_is_a_Consensus_Mechanism"}-->3["What is Ethereum"]
-0{"What_is_a_Consensus_Mechanism"}-->4["How a Transaction Works"]
-0{"What_is_a_Consensus_Mechanism"}-->5["What is a Hard Fork"]
-0{"What_is_a_Consensus_Mechanism"}-->6["Proof of Stake vs Mining"]
-0{"What_is_a_Consensus_Mechanism"}-->7["What is Bitcoin"]
-0{"What_is_a_Consensus_Mechanism"}-->8["What is Property"]
-0{"What_is_a_Consensus_Mechanism"}-->9["What are Smart Contracts"]
-0{"What_is_a_Consensus_Mechanism"}-->10["What are DAOs"]
+1["What is Distributed Storage"]-->0{"What is a Consensus Mechanism"}
+0{"What is a Consensus Mechanism"}-->2["What is an S Adoption Curve"]
+0{"What is a Consensus Mechanism"}-->3["What is Ethereum"]
+0{"What is a Consensus Mechanism"}-->4["How a Transaction Works"]
+0{"What is a Consensus Mechanism"}-->5["What is a Hard Fork"]
+0{"What is a Consensus Mechanism"}-->6["Proof of Stake vs Mining"]
+0{"What is a Consensus Mechanism"}-->7["What is Bitcoin"]
+0{"What is a Consensus Mechanism"}-->8["What is Property"]
+0{"What is a Consensus Mechanism"}-->9["What are Smart Contracts"]
+0{"What is a Consensus Mechanism"}-->10["What are DAOs"]
 ```
 
 

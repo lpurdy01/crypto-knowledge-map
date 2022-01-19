@@ -8,8 +8,8 @@
 
 ```mermaid
 graph LR
-1["What are Smart Contracts"]-->0{"What_are_NFTs"}
-2["What is Property"]-->0{"What_are_NFTs"}
+1["What are Smart Contracts"]-->0{"What are NFTs"}
+2["What is Property"]-->0{"What are NFTs"}
 ```
 
 

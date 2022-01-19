@@ -8,8 +8,8 @@
 
 ```mermaid
 graph LR
-1["Update On Security"]-->0{"The_Blockchain_Security_Trilemma"}
-2["Security Concerns For the Whole Network"]-->0{"The_Blockchain_Security_Trilemma"}
+1["Update On Security"]-->0{"The Blockchain Security Trilemma"}
+2["Security Concerns For the Whole Network"]-->0{"The Blockchain Security Trilemma"}
 ```
 
 

@@ -14,11 +14,11 @@
 
 ```mermaid
 graph LR
-1["What is a Consensus Mechanism"]-->0{"What_are_DAOs"}
-2["What are Seeds and Public Private Keys"]-->0{"What_are_DAOs"}
-3["What is Ethereum"]-->0{"What_are_DAOs"}
-4["What are Smart Contracts"]-->0{"What_are_DAOs"}
-0{"What_are_DAOs"}-->5["Proof of Stake vs Mining"]
+1["What is a Consensus Mechanism"]-->0{"What are DAOs"}
+2["What are Seeds and Public Private Keys"]-->0{"What are DAOs"}
+3["What is Ethereum"]-->0{"What are DAOs"}
+4["What are Smart Contracts"]-->0{"What are DAOs"}
+0{"What are DAOs"}-->5["Proof of Stake vs Mining"]
 ```
 
 

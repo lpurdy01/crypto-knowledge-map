@@ -7,7 +7,7 @@ Example:
 
 ```mermaid
 graph LR
-1["README"]-->0{"base_topic_format"}
+1["README"]-->0{"base topic format"}
 ```
 
 

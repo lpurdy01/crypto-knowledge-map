@@ -5,10 +5,10 @@ None
 
 ```mermaid
 graph LR
-0{"What_is_GIT"}-->1["How Etherium Can Change"]
-0{"What_is_GIT"}-->2["What is a Hard Fork"]
-0{"What_is_GIT"}-->3["What is the Lightning Network"]
-0{"What_is_GIT"}-->4["How Do Cryptocurrencies Change"]
+0{"What is GIT"}-->1["How Etherium Can Change"]
+0{"What is GIT"}-->2["What is a Hard Fork"]
+0{"What is GIT"}-->3["What is the Lightning Network"]
+0{"What is GIT"}-->4["How Do Cryptocurrencies Change"]
 ```
 
 

@@ -5,9 +5,9 @@
 
 ```mermaid
 graph LR
-1["What are Smart Contracts"]-->0{"What_are_Oracles"}
-0{"What_are_Oracles"}-->2["What About Cross Chain"]
-0{"What_are_Oracles"}-->3["What are Stablecoins"]
+1["What are Smart Contracts"]-->0{"What are Oracles"}
+0{"What are Oracles"}-->2["What About Cross Chain"]
+0{"What are Oracles"}-->3["What are Stablecoins"]
 ```
 
 

@@ -20,18 +20,18 @@
 
 ```mermaid
 graph LR
-1["What is Bitcoin"]-->0{"What_is_an_Exchange"}
-2["How Supply and Demand Works"]-->0{"What_is_an_Exchange"}
-3["What are Markets"]-->0{"What_is_an_Exchange"}
-4["What Can Go Wrong With a Transaction"]-->0{"What_is_an_Exchange"}
-5["How a Transaction Works"]-->0{"What_is_an_Exchange"}
-6["What is a Blockchain Explorer"]-->0{"What_is_an_Exchange"}
-0{"What_is_an_Exchange"}-->7["What is a DEX"]
-0{"What_is_an_Exchange"}-->8["What About Banks"]
-0{"What_is_an_Exchange"}-->9["Security Concerns For Exchanges"]
-0{"What_is_an_Exchange"}-->10["How to Setup a Wallet"]
-0{"What_is_an_Exchange"}-->11["How to Setup an Exchange Account"]
-0{"What_is_an_Exchange"}-->12["Passwords Logins 2 Factor Authentication"]
+1["What is Bitcoin"]-->0{"What is an Exchange"}
+2["How Supply and Demand Works"]-->0{"What is an Exchange"}
+3["What are Markets"]-->0{"What is an Exchange"}
+4["What Can Go Wrong With a Transaction"]-->0{"What is an Exchange"}
+5["How a Transaction Works"]-->0{"What is an Exchange"}
+6["What is a Blockchain Explorer"]-->0{"What is an Exchange"}
+0{"What is an Exchange"}-->7["What is a DEX"]
+0{"What is an Exchange"}-->8["What About Banks"]
+0{"What is an Exchange"}-->9["Security Concerns For Exchanges"]
+0{"What is an Exchange"}-->10["How to Setup a Wallet"]
+0{"What is an Exchange"}-->11["How to Setup an Exchange Account"]
+0{"What is an Exchange"}-->12["Passwords Logins 2 Factor Authentication"]
 ```
 
 

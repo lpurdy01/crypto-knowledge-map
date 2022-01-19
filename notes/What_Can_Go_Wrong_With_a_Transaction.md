@@ -5,10 +5,10 @@
 
 ```mermaid
 graph LR
-1["How a Transaction Works"]-->0{"What_Can_Go_Wrong_With_a_Transaction"}
-0{"What_Can_Go_Wrong_With_a_Transaction"}-->2["Security Concerns For the Whole Network"]
-0{"What_Can_Go_Wrong_With_a_Transaction"}-->3["What is Self Custody"]
-0{"What_Can_Go_Wrong_With_a_Transaction"}-->4["What is an Exchange"]
+1["How a Transaction Works"]-->0{"What Can Go Wrong With a Transaction"}
+0{"What Can Go Wrong With a Transaction"}-->2["Security Concerns For the Whole Network"]
+0{"What Can Go Wrong With a Transaction"}-->3["What is Self Custody"]
+0{"What Can Go Wrong With a Transaction"}-->4["What is an Exchange"]
 ```
 
 

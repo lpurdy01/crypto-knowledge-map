@@ -7,7 +7,7 @@
 
 ```mermaid
 graph LR
-1["What is a Consensus Mechanism"]-->0{"What_is_an_S_Adoption_Curve"}
+1["What is a Consensus Mechanism"]-->0{"What is an S Adoption Curve"}
 ```
 
 

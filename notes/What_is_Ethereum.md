@@ -26,20 +26,20 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What_is_Ethereum"}
-2["What is a Blockchain"]-->0{"What_is_Ethereum"}
-3["What is Distributed Storage"]-->0{"What_is_Ethereum"}
-4["What is a Consensus Mechanism"]-->0{"What_is_Ethereum"}
-5["What is Cryptography"]-->0{"What_is_Ethereum"}
-6["What are Seeds and Public Private Keys"]-->0{"What_is_Ethereum"}
-7["What is a Wallet"]-->0{"What_is_Ethereum"}
-8["What is Bitcoin"]-->0{"What_is_Ethereum"}
-0{"What_is_Ethereum"}-->9["How Etherium Can Change"]
-0{"What_is_Ethereum"}-->10["How Ethereum Is Valued Differently"]
-0{"What_is_Ethereum"}-->11["Proof of Stake vs Mining"]
-0{"What_is_Ethereum"}-->12["Other Tokens Exist"]
-0{"What_is_Ethereum"}-->13["What About Cross Chain"]
-0{"What_is_Ethereum"}-->14["What are DAOs"]
+1["What is a Ledger"]-->0{"What is Ethereum"}
+2["What is a Blockchain"]-->0{"What is Ethereum"}
+3["What is Distributed Storage"]-->0{"What is Ethereum"}
+4["What is a Consensus Mechanism"]-->0{"What is Ethereum"}
+5["What is Cryptography"]-->0{"What is Ethereum"}
+6["What are Seeds and Public Private Keys"]-->0{"What is Ethereum"}
+7["What is a Wallet"]-->0{"What is Ethereum"}
+8["What is Bitcoin"]-->0{"What is Ethereum"}
+0{"What is Ethereum"}-->9["How Etherium Can Change"]
+0{"What is Ethereum"}-->10["How Ethereum Is Valued Differently"]
+0{"What is Ethereum"}-->11["Proof of Stake vs Mining"]
+0{"What is Ethereum"}-->12["Other Tokens Exist"]
+0{"What is Ethereum"}-->13["What About Cross Chain"]
+0{"What is Ethereum"}-->14["What are DAOs"]
 ```
 
 

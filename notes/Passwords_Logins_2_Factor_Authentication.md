@@ -5,10 +5,10 @@
 
 ```mermaid
 graph LR
-1["What is an Exchange"]-->0{"Passwords_Logins_2_Factor_Authentication"}
-0{"Passwords_Logins_2_Factor_Authentication"}-->2["Security Concerns For Exchanges"]
-0{"Passwords_Logins_2_Factor_Authentication"}-->3["How to Setup an Exchange Account"]
-0{"Passwords_Logins_2_Factor_Authentication"}-->4["Update On Security"]
+1["What is an Exchange"]-->0{"Passwords Logins 2 Factor Authentication"}
+0{"Passwords Logins 2 Factor Authentication"}-->2["Security Concerns For Exchanges"]
+0{"Passwords Logins 2 Factor Authentication"}-->3["How to Setup an Exchange Account"]
+0{"Passwords Logins 2 Factor Authentication"}-->4["Update On Security"]
 ```
 
 

@@ -17,11 +17,11 @@
 
 ```mermaid
 graph LR
-1["Blockchain"]-->0{"What_is_Bitcoins_Monetary_Policy"}
-2["What is Mining"]-->0{"What_is_Bitcoins_Monetary_Policy"}
-3["What is Money Printing"]-->0{"What_is_Bitcoins_Monetary_Policy"}
-4["What is a Wallet"]-->0{"What_is_Bitcoins_Monetary_Policy"}
-5["What is Bitcoin"]-->0{"What_is_Bitcoins_Monetary_Policy"}
+1["Blockchain"]-->0{"What is Bitcoins Monetary Policy"}
+2["What is Mining"]-->0{"What is Bitcoins Monetary Policy"}
+3["What is Money Printing"]-->0{"What is Bitcoins Monetary Policy"}
+4["What is a Wallet"]-->0{"What is Bitcoins Monetary Policy"}
+5["What is Bitcoin"]-->0{"What is Bitcoins Monetary Policy"}
 ```
 
 

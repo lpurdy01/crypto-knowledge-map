@@ -14,11 +14,11 @@
 
 ```mermaid
 graph LR
-1["What are Seeds and Public Private Keys"]-->0{"Security_Concerns_For_Self_Custody"}
-2["How a Transaction Works"]-->0{"Security_Concerns_For_Self_Custody"}
-3["What is Self Custody"]-->0{"Security_Concerns_For_Self_Custody"}
-4["Update On Security"]-->0{"Security_Concerns_For_Self_Custody"}
-0{"Security_Concerns_For_Self_Custody"}-->5["How to Increase Self Custody Security"]
+1["What are Seeds and Public Private Keys"]-->0{"Security Concerns For Self Custody"}
+2["How a Transaction Works"]-->0{"Security Concerns For Self Custody"}
+3["What is Self Custody"]-->0{"Security Concerns For Self Custody"}
+4["Update On Security"]-->0{"Security Concerns For Self Custody"}
+0{"Security Concerns For Self Custody"}-->5["How to Increase Self Custody Security"]
 ```
 
 

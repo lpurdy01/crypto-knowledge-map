@@ -23,13 +23,13 @@
 
 ```mermaid
 graph LR
-1["What is a Consensus Mechanism"]-->0{"Proof_of_Stake_vs_Mining"}
-2["What is Property"]-->0{"Proof_of_Stake_vs_Mining"}
-3["What is Mining"]-->0{"Proof_of_Stake_vs_Mining"}
-4["How a Transaction Works"]-->0{"Proof_of_Stake_vs_Mining"}
-5["What is Ethereum"]-->0{"Proof_of_Stake_vs_Mining"}
-6["What are Smart Contracts"]-->0{"Proof_of_Stake_vs_Mining"}
-7["What are DAOs"]-->0{"Proof_of_Stake_vs_Mining"}
+1["What is a Consensus Mechanism"]-->0{"Proof of Stake vs Mining"}
+2["What is Property"]-->0{"Proof of Stake vs Mining"}
+3["What is Mining"]-->0{"Proof of Stake vs Mining"}
+4["How a Transaction Works"]-->0{"Proof of Stake vs Mining"}
+5["What is Ethereum"]-->0{"Proof of Stake vs Mining"}
+6["What are Smart Contracts"]-->0{"Proof of Stake vs Mining"}
+7["What are DAOs"]-->0{"Proof of Stake vs Mining"}
 ```
 
 
