@@ -8,8 +8,9 @@
 
 ```mermaid
 graph LR
-1["What is Ethereum"]-->0{"Other Tokens Exist"}
-2["How Etherium Can Change"]-->0{"Other Tokens Exist"}
+1["What is Ethereum"]-->0{"Other_Tokens_Exist"}
+2["How Etherium Can Change"]-->0{"Other_Tokens_Exist"}
+0{"Other_Tokens_Exist"}-->3["What About Cross Chain"]
 ```
 
 

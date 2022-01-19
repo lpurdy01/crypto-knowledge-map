@@ -11,9 +11,17 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What is a Wallet"}
-2["What is a Blockchain"]-->0{"What is a Wallet"}
-3["What are Seeds and Public Private Keys"]-->0{"What is a Wallet"}
+1["What is a Ledger"]-->0{"What_is_a_Wallet"}
+2["What is a Blockchain"]-->0{"What_is_a_Wallet"}
+3["What are Seeds and Public Private Keys"]-->0{"What_is_a_Wallet"}
+0{"What_is_a_Wallet"}-->4["What is a DEX"]
+0{"What_is_a_Wallet"}-->5["How to Setup a Wallet"]
+0{"What_is_a_Wallet"}-->6["What is Ethereum"]
+0{"What_is_a_Wallet"}-->7["What is Self Custody"]
+0{"What_is_a_Wallet"}-->8["What is Bitcoin"]
+0{"What_is_a_Wallet"}-->9["What is a Layer 2"]
+0{"What_is_a_Wallet"}-->10["What are Smart Contracts"]
+0{"What_is_a_Wallet"}-->11["What is Bitcoins Monetary Policy"]
 ```
 
 

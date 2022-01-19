@@ -8,8 +8,12 @@
 
 ```mermaid
 graph LR
-1["Passwords Logins 2 Factor Authentication"]-->0{"Update On Security"}
-2["What is Self Custody"]-->0{"Update On Security"}
+1["Passwords Logins 2 Factor Authentication"]-->0{"Update_On_Security"}
+2["What is Self Custody"]-->0{"Update_On_Security"}
+0{"Update_On_Security"}-->3["Security Concerns For Exchanges"]
+0{"Update_On_Security"}-->4["The Blockchain Security Trilemma"]
+0{"Update_On_Security"}-->5["Security Concerns For Self Custody"]
+0{"Update_On_Security"}-->6["How to Increase Self Custody Security"]
 ```
 
 

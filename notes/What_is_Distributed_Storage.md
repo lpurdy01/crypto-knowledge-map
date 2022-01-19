@@ -5,11 +5,11 @@ None
 
 ```mermaid
 graph LR
-0{"What is distributed storage"}-->1["What is a Blockchain explorer"]
-0{"What is distributed storage"}-->2["What are smart contracts"]
-0{"What is distributed storage"}-->3["How a transaction works"]
-0{"What is distributed storage"}-->4["What is a consensus mechanism"]
-0{"What is distributed storage"}-->5["What is Ethereum"]
+0{"What_is_Distributed_Storage"}-->1["What is Ethereum"]
+0{"What_is_Distributed_Storage"}-->2["What is a Blockchain Explorer"]
+0{"What_is_Distributed_Storage"}-->3["How a Transaction Works"]
+0{"What_is_Distributed_Storage"}-->4["What are Smart Contracts"]
+0{"What_is_Distributed_Storage"}-->5["What is a Consensus Mechanism"]
 ```
 
 

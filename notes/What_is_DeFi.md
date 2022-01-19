@@ -5,7 +5,8 @@
 
 ```mermaid
 graph LR
-1["What are Smart Contracts"]-->0{"What is DeFi"}
+1["What are Smart Contracts"]-->0{"What_is_DeFi"}
+0{"What_is_DeFi"}-->2["What are Stablecoins"]
 ```
 
 

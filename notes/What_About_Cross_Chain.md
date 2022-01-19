@@ -17,11 +17,11 @@
 
 ```mermaid
 graph LR
-1["What is Bitcoin"]-->0{"What About Cross Chain"}
-2["What is Ethereum"]-->0{"What About Cross Chain"}
-3["What are Smart Contracts"]-->0{"What About Cross Chain"}
-4["What are Oracles"]-->0{"What About Cross Chain"}
-5["Other Tokens Exist"]-->0{"What About Cross Chain"}
+1["What is Bitcoin"]-->0{"What_About_Cross_Chain"}
+2["What is Ethereum"]-->0{"What_About_Cross_Chain"}
+3["What are Smart Contracts"]-->0{"What_About_Cross_Chain"}
+4["What are Oracles"]-->0{"What_About_Cross_Chain"}
+5["Other Tokens Exist"]-->0{"What_About_Cross_Chain"}
 ```
 
 

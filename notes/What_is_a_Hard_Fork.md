@@ -14,10 +14,12 @@
 
 ```mermaid
 graph LR
-1["What is a Blockchain"]-->0{"What is a Hard Fork"}
-2["What is a Consensus Mechanism"]-->0{"What is a Hard Fork"}
-3["What is GIT"]-->0{"What is a Hard Fork"}
-4["What is an Update"]-->0{"What is a Hard Fork"}
+1["What is a Blockchain"]-->0{"What_is_a_Hard_Fork"}
+2["What is a Consensus Mechanism"]-->0{"What_is_a_Hard_Fork"}
+3["What is GIT"]-->0{"What_is_a_Hard_Fork"}
+4["What is an Update"]-->0{"What_is_a_Hard_Fork"}
+0{"What_is_a_Hard_Fork"}-->5["How Etherium Can Change"]
+0{"What_is_a_Hard_Fork"}-->6["How Do Cryptocurrencies Change"]
 ```
 
 

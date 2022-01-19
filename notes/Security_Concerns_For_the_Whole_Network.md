@@ -14,10 +14,11 @@
 
 ```mermaid
 graph LR
-1["What is Mining"]-->0{"Security Concerns For the Whole Network"}
-2["What is Bitcoin"]-->0{"Security Concerns For the Whole Network"}
-3["How a Transaction Works"]-->0{"Security Concerns For the Whole Network"}
-4["What Can Go Wrong With a Transaction"]-->0{"Security Concerns For the Whole Network"}
+1["What is Mining"]-->0{"Security_Concerns_For_the_Whole_Network"}
+2["What is Bitcoin"]-->0{"Security_Concerns_For_the_Whole_Network"}
+3["How a Transaction Works"]-->0{"Security_Concerns_For_the_Whole_Network"}
+4["What Can Go Wrong With a Transaction"]-->0{"Security_Concerns_For_the_Whole_Network"}
+0{"Security_Concerns_For_the_Whole_Network"}-->5["The Blockchain Security Trilemma"]
 ```
 
 

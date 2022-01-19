@@ -7,7 +7,17 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What is a Blockchain"}
+1["What is a Ledger"]-->0{"What_is_a_Blockchain"}
+0{"What_is_a_Blockchain"}-->2["What is Ethereum"]
+0{"What_is_a_Blockchain"}-->3["What is a Blockchain Explorer"]
+0{"What_is_a_Blockchain"}-->4["What is Self Custody"]
+0{"What_is_a_Blockchain"}-->5["What is an Exchange"]
+0{"What_is_a_Blockchain"}-->6["How a Transaction Works"]
+0{"What_is_a_Blockchain"}-->7["What is a Hard Fork"]
+0{"What_is_a_Blockchain"}-->8["What is Bitcoin"]
+0{"What_is_a_Blockchain"}-->9["What is Mining"]
+0{"What_is_a_Blockchain"}-->10["What are Smart Contracts"]
+0{"What_is_a_Blockchain"}-->11["What is a Wallet"]
 ```
 
 

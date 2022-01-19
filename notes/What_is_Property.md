@@ -7,7 +7,10 @@
 
 ```mermaid
 graph LR
-1["What is a Consensus Mechanism"]-->0{"What is Property"}
+1["What is a Consensus Mechanism"]-->0{"What_is_Property"}
+0{"What_is_Property"}-->2["Proof of Stake vs Mining"]
+0{"What_is_Property"}-->3["What are NFTs"]
+0{"What_is_Property"}-->4["How the US Government Views Crypto Assets"]
 ```
 
 

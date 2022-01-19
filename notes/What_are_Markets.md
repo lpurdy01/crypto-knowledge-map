@@ -7,7 +7,9 @@
 
 ```mermaid
 graph LR
-1["How Supply and Demand Works"]-->0{"What are Markets"}
+1["How Supply and Demand Works"]-->0{"What_are_Markets"}
+0{"What_are_Markets"}-->2["What is a DEX"]
+0{"What_are_Markets"}-->3["What is an Exchange"]
 ```
 
 

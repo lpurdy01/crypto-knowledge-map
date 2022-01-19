@@ -7,8 +7,11 @@
         "id": "fa45be5765fedea9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "What_is_an_Exchange.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "What_is_an_Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "fa45be5765fedea9",
   "lastOpenFiles": [
-    "What_is_a_Credit_or_Debit_Card.md",
-    "wholegraph.png",
-    "Whats_Going_On_With_El_Salvador.md",
-    "What_is_the_Lightning_Network.md",
-    "What_is_Money_Printing.md",
-    "What_is_Property.md",
-    "What_is_an_S_Adoption_Curve.md",
-    "What_is_Self_Custody.md",
-    "What_is_Mining.md",
-    "What_is_GIT.md"
+    "What_is_an_Exchange.md",
+    "What_is_a_Consensus_Mechanism.md",
+    "What_are_Markets.md",
+    "What_are_Oracles.md",
+    "Update_On_Security.md",
+    "Security_Concerns_For_Exchanges.md",
+    "Passwords_Logins_2_Factor_Authentication.md",
+    "How_to_Setup_a_Wallet.md",
+    "How_the_US_Government_Views_Crypto_Assets.md",
+    "The_Blockchain_Security_Trilemma.md"
   ]
 }

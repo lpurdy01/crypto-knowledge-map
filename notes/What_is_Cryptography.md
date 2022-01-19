@@ -5,8 +5,8 @@ None
 
 ```mermaid
 graph LR
-0{"What is cryptography"}-->1["What is Ethereum"]
-0{"What is cryptography"}-->2["What is Bitcoin"]
+0{"What_is_Cryptography"}-->1["What is Ethereum"]
+0{"What_is_Cryptography"}-->2["What is Bitcoin"]
 ```
 
 

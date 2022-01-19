@@ -5,7 +5,9 @@
 
 ```mermaid
 graph LR
-1["What is Property"]-->0{"How the US Government Views Crypto Assets"}
+1["What is Property"]-->0{"How_the_US_Government_Views_Crypto_Assets"}
+0{"How_the_US_Government_Views_Crypto_Assets"}-->2["What are the Tax Implications"]
+0{"How_the_US_Government_Views_Crypto_Assets"}-->3["Whats Going On With El Salvador"]
 ```
 
 

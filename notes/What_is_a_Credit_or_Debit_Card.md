@@ -8,8 +8,9 @@
 
 ```mermaid
 graph LR
-1["What is Money"]-->0{"What is a Credit or Debit Card"}
-2["How the US Monetary System Works"]-->0{"What is a Credit or Debit Card"}
+1["What is Money"]-->0{"What_is_a_Credit_or_Debit_Card"}
+2["How the US Monetary System Works"]-->0{"What_is_a_Credit_or_Debit_Card"}
+0{"What_is_a_Credit_or_Debit_Card"}-->3["What About Banks"]
 ```
 
 

@@ -23,13 +23,22 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What is Bitcoin"}
-2["What is a Blockchain"]-->0{"What is Bitcoin"}
-3["What are Seeds and Public Private Keys"]-->0{"What is Bitcoin"}
-4["What is Mining"]-->0{"What is Bitcoin"}
-5["What is a Wallet"]-->0{"What is Bitcoin"}
-6["What is a Consensus Mechanism"]-->0{"What is Bitcoin"}
-7["What is Cryptography"]-->0{"What is Bitcoin"}
+1["What is a Ledger"]-->0{"What_is_Bitcoin"}
+2["What is a Blockchain"]-->0{"What_is_Bitcoin"}
+3["What are Seeds and Public Private Keys"]-->0{"What_is_Bitcoin"}
+4["What is Mining"]-->0{"What_is_Bitcoin"}
+5["What is a Wallet"]-->0{"What_is_Bitcoin"}
+6["What is a Consensus Mechanism"]-->0{"What_is_Bitcoin"}
+7["What is Cryptography"]-->0{"What_is_Bitcoin"}
+0{"What_is_Bitcoin"}-->8["How to Setup a Wallet"]
+0{"What_is_Bitcoin"}-->9["Security Concerns For the Whole Network"]
+0{"What_is_Bitcoin"}-->10["What is Ethereum"]
+0{"What_is_Bitcoin"}-->11["What is an Update"]
+0{"What_is_Bitcoin"}-->12["What is an Exchange"]
+0{"What_is_Bitcoin"}-->13["What is the Lightning Network"]
+0{"What_is_Bitcoin"}-->14["What is a Layer 2"]
+0{"What_is_Bitcoin"}-->15["What is Bitcoins Monetary Policy"]
+0{"What_is_Bitcoin"}-->16["What About Cross Chain"]
 ```
 
 

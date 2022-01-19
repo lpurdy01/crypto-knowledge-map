@@ -16,11 +16,13 @@
 
 ```mermaid
 graph LR
-1["What is Money"]-->0{"What is a Layer 2"}
-2["How the US Monetary System Works"]-->0{"What is a Layer 2"}
-3["What is a Wallet"]-->0{"What is a Layer 2"}
-4["What is Bitcoin"]-->0{"What is a Layer 2"}
-5["How a Transaction Works"]-->0{"What is a Layer 2"}
+1["What is Money"]-->0{"What_is_a_Layer_2"}
+2["How the US Monetary System Works"]-->0{"What_is_a_Layer_2"}
+3["What is a Wallet"]-->0{"What_is_a_Layer_2"}
+4["What is Bitcoin"]-->0{"What_is_a_Layer_2"}
+5["How a Transaction Works"]-->0{"What_is_a_Layer_2"}
+0{"What_is_a_Layer_2"}-->6["What About Banks"]
+0{"What_is_a_Layer_2"}-->7["What is the Lightning Network"]
 ```
 
 

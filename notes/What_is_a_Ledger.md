@@ -5,12 +5,12 @@ None
 
 ```mermaid
 graph LR
-0{"What is a Ledger"}-->1["How a transaction works"]
-0{"What is a Ledger"}-->2["What is Ethereum"]
-0{"What is a Ledger"}-->3["What is a wallet hot and cold"]
-0{"What is a Ledger"}-->4["What is Bitcoin"]
-0{"What is a Ledger"}-->5["What is a Blockchain"]
-0{"What is a Ledger"}-->6["What is mining"]
+0{"What_is_a_Ledger"}-->1["What is Ethereum"]
+0{"What_is_a_Ledger"}-->2["How a Transaction Works"]
+0{"What_is_a_Ledger"}-->3["What is Bitcoin"]
+0{"What_is_a_Ledger"}-->4["What is a Blockchain"]
+0{"What_is_a_Ledger"}-->5["What is Mining"]
+0{"What_is_a_Ledger"}-->6["What is a Wallet"]
 ```
 
 

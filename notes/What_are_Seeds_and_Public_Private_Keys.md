@@ -5,14 +5,14 @@ None
 
 ```mermaid
 graph LR
-0{"What are Seeds and public private keys"}-->1["What are smart contracts"]
-0{"What are Seeds and public private keys"}-->2["How a transaction works"]
-0{"What are Seeds and public private keys"}-->3["What is Ethereum"]
-0{"What are Seeds and public private keys"}-->4["What is a wallet hot and cold"]
-0{"What are Seeds and public private keys"}-->5["What is Bitcoin"]
-0{"What are Seeds and public private keys"}-->6["What are DAOs"]
-0{"What are Seeds and public private keys"}-->7["Security concerns for self custody"]
-0{"What are Seeds and public private keys"}-->8["How to setup a wallet"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->1["How to Setup a Wallet"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->2["What is Ethereum"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->3["How a Transaction Works"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->4["Security Concerns For Self Custody"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->5["What is Bitcoin"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->6["What are Smart Contracts"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->7["What is a Wallet"]
+0{"What_are_Seeds_and_Public_Private_Keys"}-->8["What are DAOs"]
 ```
 
 

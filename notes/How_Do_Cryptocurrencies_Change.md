@@ -11,9 +11,11 @@
 
 ```mermaid
 graph LR
-1["What is GIT"]-->0{"How Do Cryptocurrencies Change"}
-2["What is an Update"]-->0{"How Do Cryptocurrencies Change"}
-3["What is a Hard Fork"]-->0{"How Do Cryptocurrencies Change"}
+1["What is GIT"]-->0{"How_Do_Cryptocurrencies_Change"}
+2["What is an Update"]-->0{"How_Do_Cryptocurrencies_Change"}
+3["What is a Hard Fork"]-->0{"How_Do_Cryptocurrencies_Change"}
+0{"How_Do_Cryptocurrencies_Change"}-->4["How to Keep Up With Change"]
+0{"How_Do_Cryptocurrencies_Change"}-->5["What is the Lightning Network"]
 ```
 
 

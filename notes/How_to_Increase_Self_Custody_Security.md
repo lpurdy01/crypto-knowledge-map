@@ -11,9 +11,9 @@
 
 ```mermaid
 graph LR
-1["What is Self Custody"]-->0{"How to Increase Self Custody Security"}
-2["Update On Security"]-->0{"How to Increase Self Custody Security"}
-3["Security Concerns For Self Custody"]-->0{"How to Increase Self Custody Security"}
+1["What is Self Custody"]-->0{"How_to_Increase_Self_Custody_Security"}
+2["Update On Security"]-->0{"How_to_Increase_Self_Custody_Security"}
+3["Security Concerns For Self Custody"]-->0{"How_to_Increase_Self_Custody_Security"}
 ```
 
 

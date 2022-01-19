@@ -60,7 +60,6 @@ def find_wikilinks(file_path):
 
 def gen_expected_filename(file_name):
     file_name_expected = file_name.split('/')[-1]
-    file_name_expected = file_name_expected.replace('_', ' ')
     file_name_expected = file_name_expected.split('.')[0]
 
     return file_name_expected
@@ -88,8 +87,8 @@ def find_backlinks(directory, file_name):
                 elif found_prereqs and line.startswith('[['):
                     if file_name_expected in line:
                         md_file_readable = md_file.replace('_', ' ')
-                        md_file_readable = md_file_readable.split('.')[0]
                         md_file_readable = md_file_readable.split('/')[-1]
+                        md_file_readable = md_file_readable.split('.')[0]
                         backlinks.append(md_file_readable)
     return backlinks
 
