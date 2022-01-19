@@ -7,11 +7,8 @@
         "id": "fa45be5765fedea9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "What_is_a_Credit_or_Debit_Card.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What_is_a_Credit_or_Debit_Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

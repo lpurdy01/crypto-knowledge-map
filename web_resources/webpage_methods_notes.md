@@ -47,9 +47,9 @@ mkdocs gh-deploy
 
 - done:Make a little graph visualization on each page showing some of the prerequisites, or connections between topics.
 - done:Have the website hostable on github pages.
-- Have the website easily generated from the notes
+- done:Have the website easily generated from the notes
 - Have a link checker that tests all links in the website
 - Make a nice logo for the top right hand corner
-- Figure out how to make the links work correctly
-- For now disable the edit feature in mkdocs
-  - A new version of the repo could drop Obsidian support to allow for editing online.
+- done:Figure out how to make the links work correctly
+- backlinks work if there are no prerequisites. Fix that.
+- 
