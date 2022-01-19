@@ -8,8 +8,8 @@
 
 ```mermaid
 graph LR
-1["What is money"]-->0{"How the US monetary system works"}
-2["What is money printing"]-->0{"How the US monetary system works"}
+1["What is Money"]-->0{"How the US Monetary System Works"}
+2["What is Money Printing"]-->0{"How the US Monetary System Works"}
 ```
 
 

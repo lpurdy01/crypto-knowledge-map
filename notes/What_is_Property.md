@@ -7,7 +7,7 @@
 
 ```mermaid
 graph LR
-1["What is a consensus mechanism"]-->0{"What is property"}
+1["What is a Consensus Mechanism"]-->0{"What is Property"}
 ```
 
 

@@ -14,10 +14,10 @@
 
 ```mermaid
 graph LR
-1["What is a Blockchain"]-->0{"What is a hard fork"}
-2["What is a consensus mechanism"]-->0{"What is a hard fork"}
-3["What is git"]-->0{"What is a hard fork"}
-4["What is an update"]-->0{"What is a hard fork"}
+1["What is a Blockchain"]-->0{"What is a Hard Fork"}
+2["What is a Consensus Mechanism"]-->0{"What is a Hard Fork"}
+3["What is GIT"]-->0{"What is a Hard Fork"}
+4["What is an Update"]-->0{"What is a Hard Fork"}
 ```
 
 

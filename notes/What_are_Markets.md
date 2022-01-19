@@ -7,7 +7,7 @@
 
 ```mermaid
 graph LR
-1["How supply and demand works"]-->0{"What are markets"}
+1["How Supply and Demand Works"]-->0{"What are Markets"}
 ```
 
 

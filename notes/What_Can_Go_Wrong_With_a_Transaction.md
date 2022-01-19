@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["How a transaction works"]-->0{"What can go wrong with a transaction"}
+1["How a Transaction Works"]-->0{"What Can Go Wrong With a Transaction"}
 ```
 
 

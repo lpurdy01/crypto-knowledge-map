@@ -20,12 +20,12 @@
 
 ```mermaid
 graph LR
-1["What is git"]-->0{"How Etherium can change"}
-2["What is an update"]-->0{"How Etherium can change"}
-3["What is a hard fork"]-->0{"How Etherium can change"}
-4["How to keep up with change"]-->0{"How Etherium can change"}
-5["What is Ethereum"]-->0{"How Etherium can change"}
-6["What are smart contracts"]-->0{"How Etherium can change"}
+1["What is GIT"]-->0{"How Etherium Can Change"}
+2["What is an Update"]-->0{"How Etherium Can Change"}
+3["What is a Hard Fork"]-->0{"How Etherium Can Change"}
+4["How to Keep Up With Change"]-->0{"How Etherium Can Change"}
+5["What is Ethereum"]-->0{"How Etherium Can Change"}
+6["What are Smart Contracts"]-->0{"How Etherium Can Change"}
 ```
 
 

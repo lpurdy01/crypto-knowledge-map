@@ -20,12 +20,12 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"How a transaction works"}
-2["What is a Blockchain"]-->0{"How a transaction works"}
-3["What is distributed storage"]-->0{"How a transaction works"}
-4["What is a consensus mechanism"]-->0{"How a transaction works"}
-5["What are Seeds and public private keys"]-->0{"How a transaction works"}
-6["How to setup a wallet"]-->0{"How a transaction works"}
+1["What is a Ledger"]-->0{"How a Transaction Works"}
+2["What is a Blockchain"]-->0{"How a Transaction Works"}
+3["What is Distributed Storage"]-->0{"How a Transaction Works"}
+4["What is a Consensus Mechanism"]-->0{"How a Transaction Works"}
+5["What are Seeds and Public Private Keys"]-->0{"How a Transaction Works"}
+6["How to Setup a Wallet"]-->0{"How a Transaction Works"}
 ```
 
 

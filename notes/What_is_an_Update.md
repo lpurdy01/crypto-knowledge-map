@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["What is Bitcoin"]-->0{"What is an update"}
+1["What is Bitcoin"]-->0{"What is an Update"}
 ```
 
 

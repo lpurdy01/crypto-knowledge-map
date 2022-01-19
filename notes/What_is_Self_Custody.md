@@ -17,11 +17,11 @@
 
 ```mermaid
 graph LR
-1["What is a wallet hot and cold"]-->0{"What is self custody"}
-2["How a transaction works"]-->0{"What is self custody"}
-3["What can go wrong with a transaction"]-->0{"What is self custody"}
-4["What is a Blockchain explorer"]-->0{"What is self custody"}
-5["How to setup an exchange account"]-->0{"What is self custody"}
+1["What is a Wallet"]-->0{"What is Self Custody"}
+2["How a Transaction Works"]-->0{"What is Self Custody"}
+3["What Can Go Wrong With a Transaction"]-->0{"What is Self Custody"}
+4["What is a Blockchain Explorer"]-->0{"What is Self Custody"}
+5["How to Setup an Exchange Account"]-->0{"What is Self Custody"}
 ```
 
 

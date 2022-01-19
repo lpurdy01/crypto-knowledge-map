@@ -16,10 +16,10 @@
 
 ```mermaid
 graph LR
-1["What are Seeds and public private keys"]-->0{"How to setup a wallet"}
-2["What is a wallet hot and cold"]-->0{"How to setup a wallet"}
-3["What is Bitcoin"]-->0{"How to setup a wallet"}
-4["What is an exchange"]-->0{"How to setup a wallet"}
+1["What are Seeds and Public Private Keys"]-->0{"How to Setup a Wallet"}
+2["What is a Wallet"]-->0{"How to Setup a Wallet"}
+3["What is Bitcoin"]-->0{"How to Setup a Wallet"}
+4["What is an Exchange"]-->0{"How to Setup a Wallet"}
 ```
 
 

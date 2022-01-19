@@ -20,12 +20,12 @@
 
 ```mermaid
 graph LR
-1["What is Bitcoin"]-->0{"What is an exchange"}
-2["How supply and demand works"]-->0{"What is an exchange"}
-3["What are markets"]-->0{"What is an exchange"}
-4["What can go wrong with a transaction"]-->0{"What is an exchange"}
-5["How a transaction works"]-->0{"What is an exchange"}
-6["What is a Blockchain explorer"]-->0{"What is an exchange"}
+1["What is Bitcoin"]-->0{"What is an Exchange"}
+2["How Supply and Demand Works"]-->0{"What is an Exchange"}
+3["What are Markets"]-->0{"What is an Exchange"}
+4["What Can Go Wrong With a Transaction"]-->0{"What is an Exchange"}
+5["How a Transaction Works"]-->0{"What is an Exchange"}
+6["What is a Blockchain Explorer"]-->0{"What is an Exchange"}
 ```
 
 

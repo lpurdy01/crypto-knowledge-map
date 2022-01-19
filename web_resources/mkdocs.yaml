@@ -4,13 +4,15 @@ site_author: Levi Purdy
 docs_dir: ../notes
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: deep orange
 
 plugins:
   - search
-  - mermaid2
-
-extra_javascript:
-  - extra/refresh_on_toggle_dark_light.js
+  - mermaid2:
+      arguments:
+        theme: dark
 
 markdown_extensions:
   - wikilinks

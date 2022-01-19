@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["What is property"]-->0{"How the US government views crypto assets"}
+1["What is Property"]-->0{"How the US Government Views Crypto Assets"}
 ```
 
 

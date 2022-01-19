@@ -14,10 +14,10 @@
 
 ```mermaid
 graph LR
-1["What are the tax implications"]-->0{"Whats going on with El Salvador"}
-2["How the US government views crypto assets"]-->0{"Whats going on with El Salvador"}
-3["What is the lightning network"]-->0{"Whats going on with El Salvador"}
-4["What is money"]-->0{"Whats going on with El Salvador"}
+1["What are the Tax Implications"]-->0{"Whats Going On With El Salvador"}
+2["How the US Government Views Crypto Assets"]-->0{"Whats Going On With El Salvador"}
+3["What is the Lightning Network"]-->0{"Whats Going On With El Salvador"}
+4["What is Money"]-->0{"Whats Going On With El Salvador"}
 ```
 
 

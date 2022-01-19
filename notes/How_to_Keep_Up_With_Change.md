@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["How do cryptocurrencies change"]-->0{"How to keep up with change"}
+1["How Do Cryptocurrencies Change"]-->0{"How to Keep Up With Change"}
 ```
 
 

@@ -9,8 +9,8 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What is mining"}
-2["What is a Blockchain"]-->0{"What is mining"}
+1["What is a Ledger"]-->0{"What is Mining"}
+2["What is a Blockchain"]-->0{"What is Mining"}
 ```
 
 

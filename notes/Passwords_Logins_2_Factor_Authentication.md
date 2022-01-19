@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["What is an exchange"]-->0{"Passwords logins 2 factor authentication"}
+1["What is an Exchange"]-->0{"Passwords Logins 2 Factor Authentication"}
 ```
 
 

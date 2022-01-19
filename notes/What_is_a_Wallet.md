@@ -11,9 +11,9 @@
 
 ```mermaid
 graph LR
-1["What is a Ledger"]-->0{"What is a wallet hot and cold"}
-2["What is a Blockchain"]-->0{"What is a wallet hot and cold"}
-3["What are Seeds and public private keys"]-->0{"What is a wallet hot and cold"}
+1["What is a Ledger"]-->0{"What is a Wallet"}
+2["What is a Blockchain"]-->0{"What is a Wallet"}
+3["What are Seeds and Public Private Keys"]-->0{"What is a Wallet"}
 ```
 
 

@@ -14,10 +14,10 @@
 
 ```mermaid
 graph LR
-1["What are smart contracts"]-->0{"What are stablecoins"}
-2["What is defi"]-->0{"What are stablecoins"}
-3["What is a DEX"]-->0{"What are stablecoins"}
-4["What are oracles"]-->0{"What are stablecoins"}
+1["What are Smart Contracts"]-->0{"What are Stablecoins"}
+2["What is DeFi"]-->0{"What are Stablecoins"}
+3["What is a DEX"]-->0{"What are Stablecoins"}
+4["What are Oracles"]-->0{"What are Stablecoins"}
 ```
 
 

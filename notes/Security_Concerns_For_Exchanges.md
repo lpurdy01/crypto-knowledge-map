@@ -11,9 +11,9 @@
 
 ```mermaid
 graph LR
-1["What is an exchange"]-->0{"Security concerns for exchanges"}
-2["Passwords logins 2 factor authentication"]-->0{"Security concerns for exchanges"}
-3["Update on security"]-->0{"Security concerns for exchanges"}
+1["What is an Exchange"]-->0{"Security Concerns For Exchanges"}
+2["Passwords Logins 2 Factor Authentication"]-->0{"Security Concerns For Exchanges"}
+3["Update On Security"]-->0{"Security Concerns For Exchanges"}
 ```
 
 

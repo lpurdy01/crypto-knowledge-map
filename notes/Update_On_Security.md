@@ -8,8 +8,8 @@
 
 ```mermaid
 graph LR
-1["Passwords logins 2 factor authentication"]-->0{"Update on security"}
-2["What is self custody"]-->0{"Update on security"}
+1["Passwords Logins 2 Factor Authentication"]-->0{"Update On Security"}
+2["What is Self Custody"]-->0{"Update On Security"}
 ```
 
 

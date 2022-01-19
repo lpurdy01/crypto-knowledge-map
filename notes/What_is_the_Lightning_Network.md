@@ -20,12 +20,12 @@
 
 ```mermaid
 graph LR
-1["What is git"]-->0{"What is the lightning network"}
-2["How do cryptocurrencies change"]-->0{"What is the lightning network"}
-3["How to keep up with change"]-->0{"What is the lightning network"}
-4["What is a layer 2"]-->0{"What is the lightning network"}
-5["What is Bitcoin"]-->0{"What is the lightning network"}
-6["How to setup a wallet"]-->0{"What is the lightning network"}
+1["What is GIT"]-->0{"What is the Lightning Network"}
+2["How Do Cryptocurrencies Change"]-->0{"What is the Lightning Network"}
+3["How to Keep Up With Change"]-->0{"What is the Lightning Network"}
+4["What is a Layer 2"]-->0{"What is the Lightning Network"}
+5["What is Bitcoin"]-->0{"What is the Lightning Network"}
+6["How to Setup a Wallet"]-->0{"What is the Lightning Network"}
 ```
 
 

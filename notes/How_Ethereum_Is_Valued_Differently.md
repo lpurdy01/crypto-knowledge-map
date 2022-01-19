@@ -17,11 +17,11 @@
 
 ```mermaid
 graph LR
-1["What is Ethereum"]-->0{"How Ethereum is valued differently"}
-2["What are smart contracts"]-->0{"How Ethereum is valued differently"}
-3["What is money"]-->0{"How Ethereum is valued differently"}
-4["How supply and demand works"]-->0{"How Ethereum is valued differently"}
-5["How a transaction works"]-->0{"How Ethereum is valued differently"}
+1["What is Ethereum"]-->0{"How Ethereum Is Valued Differently"}
+2["What are Smart Contracts"]-->0{"How Ethereum Is Valued Differently"}
+3["What is Money"]-->0{"How Ethereum Is Valued Differently"}
+4["How Supply and Demand Works"]-->0{"How Ethereum Is Valued Differently"}
+5["How a Transaction Works"]-->0{"How Ethereum Is Valued Differently"}
 ```
 
 

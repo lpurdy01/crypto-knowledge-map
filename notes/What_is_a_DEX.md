@@ -14,10 +14,10 @@
 
 ```mermaid
 graph LR
-1["What is a wallet hot and cold"]-->0{"What is a DEX"}
-2["How supply and demand works"]-->0{"What is a DEX"}
-3["What are markets"]-->0{"What is a DEX"}
-4["What is an exchange"]-->0{"What is a DEX"}
+1["What is a Wallet"]-->0{"What is a DEX"}
+2["How Supply and Demand Works"]-->0{"What is a DEX"}
+3["What are Markets"]-->0{"What is a DEX"}
+4["What is an Exchange"]-->0{"What is a DEX"}
 ```
 
 

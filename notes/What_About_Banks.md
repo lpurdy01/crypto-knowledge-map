@@ -17,11 +17,11 @@
 
 ```mermaid
 graph LR
-1["How the US monetary system works"]-->0{"What about banks"}
-2["What is an exchange"]-->0{"What about banks"}
-3["What is self custody"]-->0{"What about banks"}
-4["What is a layer 2"]-->0{"What about banks"}
-5["What is a credit debit card"]-->0{"What about banks"}
+1["How the US Monetary System Works"]-->0{"What About Banks"}
+2["What is an Exchange"]-->0{"What About Banks"}
+3["What is Self Custody"]-->0{"What About Banks"}
+4["What is a Layer 2"]-->0{"What About Banks"}
+5["What is a Credit or Debit Card"]-->0{"What About Banks"}
 ```
 
 

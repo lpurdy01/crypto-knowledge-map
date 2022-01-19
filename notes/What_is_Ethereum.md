@@ -28,11 +28,11 @@
 graph LR
 1["What is a Ledger"]-->0{"What is Ethereum"}
 2["What is a Blockchain"]-->0{"What is Ethereum"}
-3["What is distributed storage"]-->0{"What is Ethereum"}
-4["What is a consensus mechanism"]-->0{"What is Ethereum"}
-5["What is cryptography"]-->0{"What is Ethereum"}
-6["What are Seeds and public private keys"]-->0{"What is Ethereum"}
-7["What is a wallet hot and cold"]-->0{"What is Ethereum"}
+3["What is Distributed Storage"]-->0{"What is Ethereum"}
+4["What is a Consensus Mechanism"]-->0{"What is Ethereum"}
+5["What is Cryptography"]-->0{"What is Ethereum"}
+6["What are Seeds and Public Private Keys"]-->0{"What is Ethereum"}
+7["What is a Wallet"]-->0{"What is Ethereum"}
 8["What is Bitcoin"]-->0{"What is Ethereum"}
 ```
 

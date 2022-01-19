@@ -8,7 +8,7 @@
 
 ```mermaid
 graph LR
-1["What is distributed storage"]-->0{"What is a consensus mechanism"}
+1["What is Distributed Storage"]-->0{"What is a Consensus Mechanism"}
 ```
 
 

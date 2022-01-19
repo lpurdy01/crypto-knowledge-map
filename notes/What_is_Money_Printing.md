@@ -8,7 +8,7 @@
 
 ```mermaid
 graph LR
-1["What is money"]-->0{"What is money printing"}
+1["What is Money"]-->0{"What is Money Printing"}
 ```
 
 

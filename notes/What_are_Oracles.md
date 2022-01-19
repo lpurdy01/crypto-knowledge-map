@@ -5,7 +5,7 @@
 
 ```mermaid
 graph LR
-1["What are smart contracts"]-->0{"What are oracles"}
+1["What are Smart Contracts"]-->0{"What are Oracles"}
 ```
 
 
