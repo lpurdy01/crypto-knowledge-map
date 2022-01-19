@@ -30,6 +30,11 @@ For links to look correct in rendered markdown they need to have double enters b
 It looks like the edit feature in mkdocs won't work with the markdown files, because to maintain Obsidian compatibility
 the files are renamed and stored in a different location.
 
+Looks like wikilinks between files are broken. Maybe this guy has the solution:
+https://github.com/jobindj/obsidian-publish-mkdocs
+
+Yep, it looks like instead of using wikilinks extension you should use roamlinks plugin
+
 ### Command to run mkdocs
 ``
 mkdocs serve
@@ -40,8 +45,8 @@ mkdocs gh-deploy
 
 # Design goals
 
-- Make a little graph visualization on each page showing some of the prerequisites, or connections between topics.
-- Have the website hostable on github pages.
+- done:Make a little graph visualization on each page showing some of the prerequisites, or connections between topics.
+- done:Have the website hostable on github pages.
 - Have the website easily generated from the notes
 - Have a link checker that tests all links in the website
 - Make a nice logo for the top right hand corner

@@ -11,14 +11,15 @@ theme:
 
 plugins:
   - search
+  - roamlinks
   - mermaid2:
       arguments:
         theme: dark
 
 markdown_extensions:
-  - wikilinks
   - toc:
       separator: "_"
+      permalink: true
 nav:
   - Learning Order: A_Learning_Order.md
   - Base Concepts:
