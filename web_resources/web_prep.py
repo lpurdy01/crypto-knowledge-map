@@ -24,6 +24,16 @@ Code gen prompt:
 4. Save all the markdown files in a new folder with no subfolders (flat directory structure)
 """
 
+def sanitize_file_name(file_name):
+    new_name = file_name.replace(" ", "_")
+    new_name = new_name.replace("(", "")
+    new_name = new_name.replace(")", "")
+    new_name = new_name.replace(",", "")
+    new_name = new_name.replace("'", "")
+    new_name = new_name.replace("$", "")
+    new_name = new_name.replace("__", "_")
+    return new_name
+
 def fix_markdown_doc_filenames_and_structure(save_dir):
     # 1. Create a list of all markdown (.md) files contained in a folder recursively using glob
     md_files = glob.glob("../**/*.md", recursive=True)
@@ -36,21 +46,24 @@ def fix_markdown_doc_filenames_and_structure(save_dir):
             text = f.read()
             # turns out subbing for spaces in the wikilink is not necessary because mkdocs takes care of that
             # text = re.sub(r'\[\[(.*?)\]\]', lambda m: m.group(0).replace(" ", "_"), text)
-            text = re.sub(r'[,()\'$]', '', text)
+            text = re.sub(r'[,\'$]', '', text)
             # 3. Rename all the markdown files following the same rules as the wikilinks
-            new_name = file.replace(" ", "_")
-            new_name = new_name.replace("(", "")
-            new_name = new_name.replace(")", "")
-            new_name = new_name.replace(",", "")
-            new_name = new_name.replace("'", "")
-            new_name = new_name.replace("$", "")
-            new_name = new_name.replace("__", "_")
+            new_name = sanitize_file_name(file)
+            # new_name = new_name.lower()
             # grab just the filename
             new_name = new_name.split("/")[-1]
             new_name = save_dir + "/" + new_name
             # 4. Save all the markdown files in a new folder with no subfolders (flat directory structure)
             with open(new_name, 'w') as nf:
                 nf.write(text)
+
+
+def import_pictures(save_dir):
+    pics = glob.glob("../**/*.png", recursive=True)
+    # move all the pictures to the save_dir
+    for pic in pics:
+        shutil.copy(pic, save_dir)
+
 
 
 def main():
@@ -61,6 +74,9 @@ def main():
     os.mkdir(md_files_directory)
     # fix the filenames and structure of the markdown files
     fix_markdown_doc_filenames_and_structure(md_files_directory)
+    # import all the pictures
+    import_pictures(md_files_directory)
+
 
 
 if __name__ == "__main__":

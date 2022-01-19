@@ -4,73 +4,82 @@ site_author: Levi Purdy
 docs_dir: md_files
 theme:
   name: material
+plugins:
+  - search
+  - mermaid2
 markdown_extensions:
   - wikilinks
   - toc:
       separator: "_"
 nav:
   - Learning Order: A_learning_order.md
-  - README.md
-  - How_Ethereum_is_valued_a_bit_differently_because_it_has_a_utility_Burn_Rate.md
-  - How_Etherium_can_change.md
-  - How_a_transaction_works.md
-  - How_do_cryptocurrencies_change.md
-  - How_supply_and_demand_works.md
-  - How_the_US_government_views_crypto_assets.md
-  - How_the_US_monetary_system_works.md
-  - How_to_increase_self_custody_security_note_about_shamir_keys_hidden_wallets_multisig_wallets.md
-  - How_to_keep_up_with_change.md
-  - How_to_setup_a_wallet.md
-  - How_to_setup_an_exchange_account.md
-  - Other_tokens_exist.md
-  - Passwords_logins_2_factor_authentication.md
-  - Proof_of_stake_vs_mining.md
-  - Security_concerns_for_exchanges_hot_wallets.md
-  - Security_concerns_for_self_custody.md
-  - Security_concerns_for_the_whole_network_governments.md
-  - Some_more_resources_to_use.md
-  - The_blockchain_security_trilemma.md
-  - Update_on_security.md
-  - What_about_banks.md
-  - What_about_cross_chain.md
-  - What_are_DAOs.md
-  - What_are_NFTs.md
-  - What_are_Seeds_and_public_private_keys.md
-  - What_are_markets.md
-  - What_are_oracles.md
-  - What_are_smart_contracts.md
-  - What_are_stablecoins.md
-  - What_are_the_tax_implications.md
-  - What_can_go_wrong_with_a_transaction.md
-  - What_is_Bitcoin.md
-  - What_is_Bitcoins_monetary_policy.md
-  - What_is_Ethereum.md
-  - What_is_a_Blockchain.md
-  - What_is_a_Blockchain_explorer.md
-  - What_is_a_DEX.md
-  - What_is_a_Ledger.md
-  - What_is_a_consensus_mechanism.md
-  - What_is_a_credit_debit_card.md
-  - What_is_a_hard_fork.md
-  - What_is_a_layer_2.md
-  - What_is_a_wallet_hot_and_cold.md
-  - What_is_an_S_adoption_curve.md
-  - What_is_an_exchange.md
-  - What_is_an_update_BIPs.md
-  - What_is_cryptography.md
-  - What_is_defi.md
-  - What_is_distributed_storage.md
-  - What_is_git.md
-  - What_is_mining.md
-  - What_is_money.md
-  - What_is_money_printing.md
-  - What_is_property.md
-  - What_is_self_custody.md
-  - What_is_the_lightning_network.md
-  - Whats_going_on_with_El_Salvador.md
-  - base_topic_format.md
-  - webpage_methods_notes.md
-
-
+  - Base Concepts:
+    - What is Git: What_is_git.md
+    - What is a Ledger: What_is_a_Ledger.md
+    - What is Distributed Storage: What_is_distributed_storage.md
+    - What is Cryptography: What_is_cryptography.md
+    - What is Money: What_is_money.md
+    - How Supply and Demand Works: How_supply_and_demand_works.md
+  - Blockchain Epiphany:
+    - What is a Blockchain: What_is_a_Blockchain.md
+    - What is a Consensus Mechanism: What_is_a_consensus_mechanism.md
+    - What are Seeds and Public Private Keys: What_are_Seeds_and_public_private_keys.md
+    - What is Money Printing: What_is_money_printing.md
+    - What are Markets: What_are_markets.md
+  - Realization Details:
+    - What is a wallet, Hot and Cold: What_is_a_wallet_hot_and_cold.md
+    - What is a Blockchain Explorer: What_is_a_Blockchain_explorer.md
+    - What is Property: What_is_property.md
+    - What is an S Adoption Curve: What_is_an_S_adoption_curve.md
+  - Bitcoin:
+    - What is Mining: What_is_mining.md
+    - What is Bitcoin: What_is_Bitcoin.md
+    - What is Bitcoin's Monetary Policy: What_is_Bitcoins_monetary_policy.md
+    - How to Setup a Wallet: How_to_setup_a_wallet.md
+  - Bitcoin Details:
+    - What is an Update: What_is_an_update.md
+    - What is a Hard Fork: What_is_a_hard_fork.md
+    - How a Transaction Works: How_a_transaction_works.md
+    - What Can Go Wrong With a Transaction: What_can_go_wrong_with_a_transaction.md
+  - A Moment of Comparison:
+    - How to US Monetary System Works: How_the_US_monetary_system_works.md
+    - What is a Credit/Debit Card: What_is_a_credit_debit_card.md
+    - What is a Layer 2: What_is_a_layer_2.md
+    - How The US Government Views Crypto Assets: How_the_US_government_views_crypto_assets.md
+    - What Are the Tax Implications: What_are_the_tax_implications.md
+  - The Smart Lineage:
+    - What are the Smart Contracts: What_are_smart_contracts.md
+    - What is Ethereum: What_is_Ethereum.md
+    - What is DeFi: What_is_defi.md
+    - What is a DEX: What_is_a_DEX.md
+    - What are NFTs: What_are_NFTs.md
+    - What are Oracles: What_are_oracles.md
+    - What are DAOs: What_are_DAOs.md
+    - How Ethereum is Valued Differently: How_Ethereum_is_valued_differently.md
+    - What are Stablecoins: What_are_stablecoins.md
+  - Exchange:
+    - What is an Exchange: What_is_an_exchange.md
+    - Passwords, Logins, 2 Factor Authentication: Passwords_logins_2_factor_authentication.md
+    - How to Setup an Exchange Account: How_to_setup_an_exchange_account.md
+  - Change:
+    - How Do Cryptocurrencies Change: How_do_cryptocurrencies_change.md
+    - How To Keep Up With Change: How_to_keep_up_with_change.md
+    - How Etherium Can Change: How_Etherium_can_change.md
+    - What is the Lightning Network: What_is_the_lightning_network.md
+  - Security:
+    - What is Self Custody: What_is_self_custody.md
+    - Update on Security: Update_on_security.md
+    - The Blockchain Security Trilemma: The_blockchain_security_trilemma.md
+    - Proof of Stake vs Mining: Proof_of_stake_vs_mining.md
+    - Security Concerns For the Whole Network: Security_concerns_for_the_whole_network.md
+    - Security Concerns For Exchanges: Security_concerns_for_exchanges.md
+    - Security Concerns for Self Custody: Security_concerns_for_self_custody.md
+    - How to Increase Self Custody Security: How_to_increase_self_custody_security.md
+  - What About:
+    - Other Tokens Exist: Other_tokens_exist.md
+    - What About Cross Chain: What_about_cross_chain.md
+    - What About Banks: What_about_banks.md
+    - What's Going on With El Salvador: Whats_going_on_with_El_Salvador.md
+  - Some More Resources To Use: Some_more_resources_to_use.md
 
 

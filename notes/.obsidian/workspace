@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3e33d49f986d1762",
+        "id": "e1aa16c746243df3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A learning order.md",
+            "file": "b_blockchain_epiphany/What is a Blockchain.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "279a103bcf2f260d"
+      },
+      {
+        "id": "fa45be5765fedea9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "b_blockchain_epiphany/What is a Blockchain.md",
+            "mode": "preview"
+          }
+        },
+        "group": "279a103bcf2f260d"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A learning order.md",
+                "file": "b_blockchain_epiphany/What is a Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e33d49f986d1762",
+  "active": "e1aa16c746243df3",
   "lastOpenFiles": [
+    "b_blockchain_epiphany/What is a Blockchain.md",
+    "chart_test.md",
+    "i_change/How do cryptocurrencies change.md",
+    "e_bitcoin_details/What is a hard fork.md",
+    "i_change/How to keep up with change.md",
+    "b_blockchain_epiphany/What is a consensus mechanism.md",
+    "b_blockchain_epiphany/What are markets.md",
+    "k_what_about/Other tokens exist.md",
     "A learning order.md",
-    "j_security/Security concerns for exchanges.md",
-    "j_security/Security concerns for the whole network.md",
-    "j_security/How to increase self custody security.md",
-    "g_the_smart_lineage/How Ethereum is valued differently.md",
-    "Some more resources to use.md",
-    "notes/Some more resources to use.md",
-    "notes/A learning order.md",
-    "notes/k_what_about/What's going on with El Salvador.md",
-    "notes/k_what_about/What about cross chain.md"
+    "e_bitcoin_details/What is an update.md"
   ]
 }

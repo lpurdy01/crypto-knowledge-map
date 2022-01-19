@@ -25,6 +25,16 @@ Special characters are not supported in wikilinks names, and it doesn't look lik
 
 For links to look correct in rendered markdown they need to have double enters behind them.
 
+[Git repo I am basing a bunch of stuff off](https://github.com/StarfallProjects/obsidian-netlify-monorepo/tree/main/hobby-knowledge-base)
+
+It looks like the edit feature in mkdocs won't work with the markdown files, because to maintain Obsidian compatibility
+the files are renamed and stored in a different location.
+
+### Command to run mkdocs
+'
+mkdocs serve
+'
+
 # Design goals
 
 - Make a little graph visualization on each page showing some of the prerequisites, or connections between topics.
@@ -33,3 +43,5 @@ For links to look correct in rendered markdown they need to have double enters b
 - Have a link checker that tests all links in the website
 - Make a nice logo for the top right hand corner
 - Figure out how to make the links work correctly
+- For now disable the edit feature in mkdocs
+  - A new version of the repo could drop Obsidian support to allow for editing online.

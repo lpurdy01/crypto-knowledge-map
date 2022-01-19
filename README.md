@@ -2,8 +2,9 @@
  An Obsidian vault to hold the knowledge required to responsibly self custody your own crypto. 
  
  # How it Works
- This knowledge map is built around the Obsidian note taking software. You can find it at:
- https://obsidian.md/
+ This knowledge map is built around the Obsidian note taking software. You can find it at: [Obsidian](https://obsidian.md/)
+
+
  Obsidian is a fantastic note taking app that allows for the visualization of links between concepts. Its main special feature is the ability to view relationships between notes as an interactive graph. This greatly enhances the ability to see relations between concepts and explore a concept space. 
  
  ![this repo](wholegraph.png)

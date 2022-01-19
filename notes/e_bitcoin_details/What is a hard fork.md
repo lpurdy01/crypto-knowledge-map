@@ -8,7 +8,7 @@
 [[What is git]]
 
 
-[[What is an update (BIPs)]]
+[[What is an update]]
 
 # Description
   

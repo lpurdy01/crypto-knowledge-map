@@ -68,7 +68,7 @@ The mesh of ideas to learn can be a little daunting, so here is a bit of a tier 
 
 
 # Bitcoin Details
-[[What is an update (BIPs)]]
+[[What is an update]]
 
 
 [[What is a hard fork]]
