@@ -52,7 +52,9 @@ def find_wikilinks(file_path):
             if found_prereqs and line.startswith('# Description'):
                 break
             elif found_prereqs and line.startswith('[['):
-                wikilinks.append(strip_brackets(line.strip()))
+                nice_file_name = strip_brackets(line.strip())
+                nice_file_name = nice_file_name.replace('_', ' ')
+                wikilinks.append(nice_file_name)
     return wikilinks
 
 
@@ -165,7 +167,7 @@ def insert_graph(graph, file_name):
 
 
 def main():
-    md_files_directory = "md_files"
+    md_files_directory = "../notes"
     md_file_list = list_markdown_files(md_files_directory)
 
     # TODO: fix "A Learning Order" showing up in backlinks. Something wrong with prerequisites exclusion

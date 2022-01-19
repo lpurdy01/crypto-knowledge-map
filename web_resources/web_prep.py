@@ -45,7 +45,7 @@ def fix_markdown_doc_filenames_and_structure(save_dir):
         with open(file, 'r') as f:
             text = f.read()
             # turns out subbing for spaces in the wikilink is not necessary because mkdocs takes care of that
-            # text = re.sub(r'\[\[(.*?)\]\]', lambda m: m.group(0).replace(" ", "_"), text)
+            text = re.sub(r'\[\[(.*?)\]\]', lambda m: m.group(0).replace(" ", "_"), text)
             text = re.sub(r'[,\'$]', '', text)
             # 3. Rename all the markdown files following the same rules as the wikilinks
             new_name = sanitize_file_name(file)
@@ -67,11 +67,11 @@ def import_pictures(save_dir):
 
 
 def main():
-    md_files_directory = "md_files"
+    md_files_directory = "../notes"
     # clear all files in the md_files directory
-    if os.path.exists(md_files_directory):
-        shutil.rmtree(md_files_directory)
-    os.mkdir(md_files_directory)
+    #if os.path.exists(md_files_directory):
+    #    shutil.rmtree(md_files_directory)
+    #os.mkdir(md_files_directory)
     # fix the filenames and structure of the markdown files
     fix_markdown_doc_filenames_and_structure(md_files_directory)
     # import all the pictures

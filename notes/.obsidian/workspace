@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1aa16c746243df3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "b_blockchain_epiphany/What is a Blockchain.md",
-            "mode": "source"
-          }
-        },
-        "group": "279a103bcf2f260d"
-      },
-      {
         "id": "fa45be5765fedea9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "b_blockchain_epiphany/What is a Blockchain.md",
-            "mode": "preview"
+            "file": "What_is_a_Credit_or_Debit_Card.md",
+            "mode": "source"
           }
-        },
-        "group": "279a103bcf2f260d"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "b_blockchain_epiphany/What is a Blockchain.md",
+                "file": "What_is_a_Credit_or_Debit_Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1aa16c746243df3",
+  "active": "fa45be5765fedea9",
   "lastOpenFiles": [
-    "b_blockchain_epiphany/What is a Blockchain.md",
-    "chart_test.md",
-    "i_change/How do cryptocurrencies change.md",
-    "e_bitcoin_details/What is a hard fork.md",
-    "i_change/How to keep up with change.md",
-    "b_blockchain_epiphany/What is a consensus mechanism.md",
-    "b_blockchain_epiphany/What are markets.md",
-    "k_what_about/Other tokens exist.md",
-    "A learning order.md",
-    "e_bitcoin_details/What is an update.md"
+    "What_is_a_Credit_or_Debit_Card.md",
+    "wholegraph.png",
+    "Whats_Going_On_With_El_Salvador.md",
+    "What_is_the_Lightning_Network.md",
+    "What_is_Money_Printing.md",
+    "What_is_Property.md",
+    "What_is_an_S_Adoption_Curve.md",
+    "What_is_Self_Custody.md",
+    "What_is_Mining.md",
+    "What_is_GIT.md"
   ]
 }
