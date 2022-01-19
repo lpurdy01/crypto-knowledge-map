@@ -31,9 +31,12 @@ It looks like the edit feature in mkdocs won't work with the markdown files, bec
 the files are renamed and stored in a different location.
 
 ### Command to run mkdocs
-'
+``
 mkdocs serve
-'
+``
+``
+mkdocs gh-deploy
+``
 
 # Design goals
 

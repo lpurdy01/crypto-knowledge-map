@@ -1,5 +1,7 @@
 # Crypto Knowledge Map
  An Obsidian vault to hold the knowledge required to responsibly self custody your own crypto. 
+
+ View the web version at: [https://lpurdy01.github.io/crypto-knowledge-map/](https://lpurdy01.github.io/crypto-knowledge-map/)
  
  # How it Works
  This knowledge map is built around the Obsidian note taking software. You can find it at: [Obsidian](https://obsidian.md/)

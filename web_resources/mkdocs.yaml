@@ -1,5 +1,6 @@
 site_name: crypto-knowledge-map
 repo_url: https://github.com/lpurdy01/crypto-knowledge-map
+edit_uri: edit/main/notes/
 site_author: Levi Purdy
 docs_dir: ../notes
 theme:

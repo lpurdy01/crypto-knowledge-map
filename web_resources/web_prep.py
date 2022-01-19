@@ -36,7 +36,7 @@ def sanitize_file_name(file_name):
 
 def fix_markdown_doc_filenames_and_structure(save_dir):
     # 1. Create a list of all markdown (.md) files contained in a folder recursively using glob
-    md_files = glob.glob("../**/*.md", recursive=True)
+    md_files = glob.glob(save_dir + "/*.md", recursive=True)
 
     # 2. Find all wikilinks in the markdown files (text sorunded by double brackets ex: [[link]]) and
     #    a. replace all " " with "_"
