@@ -9,6 +9,10 @@ graph LR
 0{"Passwords Logins 2 Factor Authentication"}-->2["Security Concerns For Exchanges"]
 0{"Passwords Logins 2 Factor Authentication"}-->3["How to Setup an Exchange Account"]
 0{"Passwords Logins 2 Factor Authentication"}-->4["Update On Security"]
+click 1 "../What_is_an_Exchange" "What is an Exchange"
+click 2 "../Security_Concerns_For_Exchanges" "Security Concerns For Exchanges"
+click 3 "../How_to_Setup_an_Exchange_Account" "How to Setup an Exchange Account"
+click 4 "../Update_On_Security" "Update On Security"
 ```
 
 

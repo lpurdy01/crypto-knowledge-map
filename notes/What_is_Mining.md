@@ -15,6 +15,12 @@ graph LR
 0{"What is Mining"}-->4["Proof of Stake vs Mining"]
 0{"What is Mining"}-->5["What is Bitcoin"]
 0{"What is Mining"}-->6["What is Bitcoins Monetary Policy"]
+click 1 "../What_is_a_Ledger" "What is a Ledger"
+click 2 "../What_is_a_Blockchain" "What is a Blockchain"
+click 3 "../Security_Concerns_For_the_Whole_Network" "Security Concerns For the Whole Network"
+click 4 "../Proof_of_Stake_vs_Mining" "Proof of Stake vs Mining"
+click 5 "../What_is_Bitcoin" "What is Bitcoin"
+click 6 "../What_is_Bitcoins_Monetary_Policy" "What is Bitcoins Monetary Policy"
 ```
 
 

@@ -14,6 +14,9 @@ graph LR
 1["What is an Exchange"]-->0{"Security Concerns For Exchanges"}
 2["Passwords Logins 2 Factor Authentication"]-->0{"Security Concerns For Exchanges"}
 3["Update On Security"]-->0{"Security Concerns For Exchanges"}
+click 1 "../What_is_an_Exchange" "What is an Exchange"
+click 2 "../Passwords_Logins_2_Factor_Authentication" "Passwords Logins 2 Factor Authentication"
+click 3 "../Update_On_Security" "Update On Security"
 ```
 
 

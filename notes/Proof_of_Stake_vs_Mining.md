@@ -30,6 +30,13 @@ graph LR
 5["What is Ethereum"]-->0{"Proof of Stake vs Mining"}
 6["What are Smart Contracts"]-->0{"Proof of Stake vs Mining"}
 7["What are DAOs"]-->0{"Proof of Stake vs Mining"}
+click 1 "../What_is_a_Consensus_Mechanism" "What is a Consensus Mechanism"
+click 2 "../What_is_Property" "What is Property"
+click 3 "../What_is_Mining" "What is Mining"
+click 4 "../How_a_Transaction_Works" "How a Transaction Works"
+click 5 "../What_is_Ethereum" "What is Ethereum"
+click 6 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 7 "../What_are_DAOs" "What are DAOs"
 ```
 
 

@@ -16,6 +16,11 @@ graph LR
 3["What is a Hard Fork"]-->0{"How Do Cryptocurrencies Change"}
 0{"How Do Cryptocurrencies Change"}-->4["How to Keep Up With Change"]
 0{"How Do Cryptocurrencies Change"}-->5["What is the Lightning Network"]
+click 1 "../What_is_GIT" "What is GIT"
+click 2 "../What_is_an_Update" "What is an Update"
+click 3 "../What_is_a_Hard_Fork" "What is a Hard Fork"
+click 4 "../How_to_Keep_Up_With_Change" "How to Keep Up With Change"
+click 5 "../What_is_the_Lightning_Network" "What is the Lightning Network"
 ```
 
 

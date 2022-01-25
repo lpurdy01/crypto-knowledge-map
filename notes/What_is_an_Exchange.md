@@ -32,6 +32,18 @@ graph LR
 0{"What is an Exchange"}-->10["How to Setup a Wallet"]
 0{"What is an Exchange"}-->11["How to Setup an Exchange Account"]
 0{"What is an Exchange"}-->12["Passwords Logins 2 Factor Authentication"]
+click 1 "../What_is_Bitcoin" "What is Bitcoin"
+click 2 "../How_Supply_and_Demand_Works" "How Supply and Demand Works"
+click 3 "../What_are_Markets" "What are Markets"
+click 4 "../What_Can_Go_Wrong_With_a_Transaction" "What Can Go Wrong With a Transaction"
+click 5 "../How_a_Transaction_Works" "How a Transaction Works"
+click 6 "../What_is_a_Blockchain_Explorer" "What is a Blockchain Explorer"
+click 7 "../What_is_a_DEX" "What is a DEX"
+click 8 "../What_About_Banks" "What About Banks"
+click 9 "../Security_Concerns_For_Exchanges" "Security Concerns For Exchanges"
+click 10 "../How_to_Setup_a_Wallet" "How to Setup a Wallet"
+click 11 "../How_to_Setup_an_Exchange_Account" "How to Setup an Exchange Account"
+click 12 "../Passwords_Logins_2_Factor_Authentication" "Passwords Logins 2 Factor Authentication"
 ```
 
 

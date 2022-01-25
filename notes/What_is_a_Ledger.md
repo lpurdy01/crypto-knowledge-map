@@ -11,6 +11,12 @@ graph LR
 0{"What is a Ledger"}-->4["What is a Blockchain"]
 0{"What is a Ledger"}-->5["What is Mining"]
 0{"What is a Ledger"}-->6["What is a Wallet"]
+click 1 "../What_is_Ethereum" "What is Ethereum"
+click 2 "../How_a_Transaction_Works" "How a Transaction Works"
+click 3 "../What_is_Bitcoin" "What is Bitcoin"
+click 4 "../What_is_a_Blockchain" "What is a Blockchain"
+click 5 "../What_is_Mining" "What is Mining"
+click 6 "../What_is_a_Wallet" "What is a Wallet"
 ```
 
 

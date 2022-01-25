@@ -19,6 +19,11 @@ graph LR
 3["How a Transaction Works"]-->0{"Security Concerns For the Whole Network"}
 4["What Can Go Wrong With a Transaction"]-->0{"Security Concerns For the Whole Network"}
 0{"Security Concerns For the Whole Network"}-->5["The Blockchain Security Trilemma"]
+click 1 "../What_is_Mining" "What is Mining"
+click 2 "../What_is_Bitcoin" "What is Bitcoin"
+click 3 "../How_a_Transaction_Works" "How a Transaction Works"
+click 4 "../What_Can_Go_Wrong_With_a_Transaction" "What Can Go Wrong With a Transaction"
+click 5 "../The_Blockchain_Security_Trilemma" "The Blockchain Security Trilemma"
 ```
 
 

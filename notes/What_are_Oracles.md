@@ -8,6 +8,9 @@ graph LR
 1["What are Smart Contracts"]-->0{"What are Oracles"}
 0{"What are Oracles"}-->2["What About Cross Chain"]
 0{"What are Oracles"}-->3["What are Stablecoins"]
+click 1 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 2 "../What_About_Cross_Chain" "What About Cross Chain"
+click 3 "../What_are_Stablecoins" "What are Stablecoins"
 ```
 
 

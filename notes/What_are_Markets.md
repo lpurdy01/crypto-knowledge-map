@@ -10,6 +10,9 @@ graph LR
 1["How Supply and Demand Works"]-->0{"What are Markets"}
 0{"What are Markets"}-->2["What is a DEX"]
 0{"What are Markets"}-->3["What is an Exchange"]
+click 1 "../How_Supply_and_Demand_Works" "How Supply and Demand Works"
+click 2 "../What_is_a_DEX" "What is a DEX"
+click 3 "../What_is_an_Exchange" "What is an Exchange"
 ```
 
 

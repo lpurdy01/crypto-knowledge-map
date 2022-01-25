@@ -19,6 +19,11 @@ graph LR
 3["What is Self Custody"]-->0{"Security Concerns For Self Custody"}
 4["Update On Security"]-->0{"Security Concerns For Self Custody"}
 0{"Security Concerns For Self Custody"}-->5["How to Increase Self Custody Security"]
+click 1 "../What_are_Seeds_and_Public_Private_Keys" "What are Seeds and Public Private Keys"
+click 2 "../How_a_Transaction_Works" "How a Transaction Works"
+click 3 "../What_is_Self_Custody" "What is Self Custody"
+click 4 "../Update_On_Security" "Update On Security"
+click 5 "../How_to_Increase_Self_Custody_Security" "How to Increase Self Custody Security"
 ```
 
 

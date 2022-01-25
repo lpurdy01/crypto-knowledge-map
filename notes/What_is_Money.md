@@ -13,6 +13,14 @@ graph LR
 0{"What is Money"}-->6["What is a Layer 2"]
 0{"What is Money"}-->7["What is Bitcoins Monetary Policy"]
 0{"What is Money"}-->8["What is Money Printing"]
+click 1 "../How_Ethereum_Is_Valued_Differently" "How Ethereum Is Valued Differently"
+click 2 "../What_is_a_Credit_or_Debit_Card" "What is a Credit or Debit Card"
+click 3 "../Whats_Going_On_With_El_Salvador" "Whats Going On With El Salvador"
+click 4 "../How_the_US_Monetary_System_Works" "How the US Monetary System Works"
+click 5 "../How_the_US_Monetary_System_Works" "How the US Monetary System Works"
+click 6 "../What_is_a_Layer_2" "What is a Layer 2"
+click 7 "../What_is_Bitcoins_Monetary_Policy" "What is Bitcoins Monetary Policy"
+click 8 "../What_is_Money_Printing" "What is Money Printing"
 ```
 
 

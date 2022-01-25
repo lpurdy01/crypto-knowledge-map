@@ -9,6 +9,7 @@ None
 ```mermaid
 graph LR
 1["README"]-->0{"Some More Resources To Use"}
+click 1 "../README" "README"
 ```
 
 

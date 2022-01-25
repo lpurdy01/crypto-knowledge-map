@@ -22,6 +22,11 @@ graph LR
 3["What is Money"]-->0{"How Ethereum Is Valued Differently"}
 4["How Supply and Demand Works"]-->0{"How Ethereum Is Valued Differently"}
 5["How a Transaction Works"]-->0{"How Ethereum Is Valued Differently"}
+click 1 "../What_is_Ethereum" "What is Ethereum"
+click 2 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 3 "../What_is_Money" "What is Money"
+click 4 "../How_Supply_and_Demand_Works" "How Supply and Demand Works"
+click 5 "../How_a_Transaction_Works" "How a Transaction Works"
 ```
 
 

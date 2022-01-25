@@ -19,6 +19,11 @@ graph LR
 3["What are Markets"]-->0{"What is a DEX"}
 4["What is an Exchange"]-->0{"What is a DEX"}
 0{"What is a DEX"}-->5["What are Stablecoins"]
+click 1 "../What_is_a_Wallet" "What is a Wallet"
+click 2 "../How_Supply_and_Demand_Works" "How Supply and Demand Works"
+click 3 "../What_are_Markets" "What are Markets"
+click 4 "../What_is_an_Exchange" "What is an Exchange"
+click 5 "../What_are_Stablecoins" "What are Stablecoins"
 ```
 
 

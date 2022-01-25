@@ -14,6 +14,9 @@ graph LR
 1["What is Self Custody"]-->0{"How to Increase Self Custody Security"}
 2["Update On Security"]-->0{"How to Increase Self Custody Security"}
 3["Security Concerns For Self Custody"]-->0{"How to Increase Self Custody Security"}
+click 1 "../What_is_Self_Custody" "What is Self Custody"
+click 2 "../Update_On_Security" "Update On Security"
+click 3 "../Security_Concerns_For_Self_Custody" "Security Concerns For Self Custody"
 ```
 
 

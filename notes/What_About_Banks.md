@@ -22,6 +22,11 @@ graph LR
 3["What is Self Custody"]-->0{"What About Banks"}
 4["What is a Layer 2"]-->0{"What About Banks"}
 5["What is a Credit or Debit Card"]-->0{"What About Banks"}
+click 1 "../How_the_US_Monetary_System_Works" "How the US Monetary System Works"
+click 2 "../What_is_an_Exchange" "What is an Exchange"
+click 3 "../What_is_Self_Custody" "What is Self Custody"
+click 4 "../What_is_a_Layer_2" "What is a Layer 2"
+click 5 "../What_is_a_Credit_or_Debit_Card" "What is a Credit or Debit Card"
 ```
 
 

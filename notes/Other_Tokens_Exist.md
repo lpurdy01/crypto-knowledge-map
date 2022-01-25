@@ -11,6 +11,9 @@ graph LR
 1["What is Ethereum"]-->0{"Other Tokens Exist"}
 2["How Etherium Can Change"]-->0{"Other Tokens Exist"}
 0{"Other Tokens Exist"}-->3["What About Cross Chain"]
+click 1 "../What_is_Ethereum" "What is Ethereum"
+click 2 "../How_Etherium_Can_Change" "How Etherium Can Change"
+click 3 "../What_About_Cross_Chain" "What About Cross Chain"
 ```
 
 

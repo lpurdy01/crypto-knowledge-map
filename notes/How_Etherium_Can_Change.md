@@ -27,6 +27,13 @@ graph LR
 5["What is Ethereum"]-->0{"How Etherium Can Change"}
 6["What are Smart Contracts"]-->0{"How Etherium Can Change"}
 0{"How Etherium Can Change"}-->7["Other Tokens Exist"]
+click 1 "../What_is_GIT" "What is GIT"
+click 2 "../What_is_an_Update" "What is an Update"
+click 3 "../What_is_a_Hard_Fork" "What is a Hard Fork"
+click 4 "../How_to_Keep_Up_With_Change" "How to Keep Up With Change"
+click 5 "../What_is_Ethereum" "What is Ethereum"
+click 6 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 7 "../Other_Tokens_Exist" "Other Tokens Exist"
 ```
 
 

@@ -13,6 +13,14 @@ graph LR
 0{"What are Seeds and Public Private Keys"}-->6["What are Smart Contracts"]
 0{"What are Seeds and Public Private Keys"}-->7["What is a Wallet"]
 0{"What are Seeds and Public Private Keys"}-->8["What are DAOs"]
+click 1 "../How_to_Setup_a_Wallet" "How to Setup a Wallet"
+click 2 "../What_is_Ethereum" "What is Ethereum"
+click 3 "../How_a_Transaction_Works" "How a Transaction Works"
+click 4 "../Security_Concerns_For_Self_Custody" "Security Concerns For Self Custody"
+click 5 "../What_is_Bitcoin" "What is Bitcoin"
+click 6 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 7 "../What_is_a_Wallet" "What is a Wallet"
+click 8 "../What_are_DAOs" "What are DAOs"
 ```
 
 

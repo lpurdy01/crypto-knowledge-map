@@ -35,6 +35,21 @@ graph LR
 0{"What are Smart Contracts"}-->13["What are Stablecoins"]
 0{"What are Smart Contracts"}-->14["What is DeFi"]
 0{"What are Smart Contracts"}-->15["What are DAOs"]
+click 1 "../What_is_a_Blockchain" "What is a Blockchain"
+click 2 "../What_is_Distributed_Storage" "What is Distributed Storage"
+click 3 "../What_is_a_Consensus_Mechanism" "What is a Consensus Mechanism"
+click 4 "../What_are_Seeds_and_Public_Private_Keys" "What are Seeds and Public Private Keys"
+click 5 "../What_is_a_Wallet" "What is a Wallet"
+click 6 "../How_a_Transaction_Works" "How a Transaction Works"
+click 7 "../How_Etherium_Can_Change" "How Etherium Can Change"
+click 8 "../What_are_Oracles" "What are Oracles"
+click 9 "../How_Ethereum_Is_Valued_Differently" "How Ethereum Is Valued Differently"
+click 10 "../Proof_of_Stake_vs_Mining" "Proof of Stake vs Mining"
+click 11 "../What_are_NFTs" "What are NFTs"
+click 12 "../What_About_Cross_Chain" "What About Cross Chain"
+click 13 "../What_are_Stablecoins" "What are Stablecoins"
+click 14 "../What_is_DeFi" "What is DeFi"
+click 15 "../What_are_DAOs" "What are DAOs"
 ```
 
 

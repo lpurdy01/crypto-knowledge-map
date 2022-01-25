@@ -11,6 +11,9 @@ graph LR
 1["What is Money"]-->0{"What is a Credit or Debit Card"}
 2["How the US Monetary System Works"]-->0{"What is a Credit or Debit Card"}
 0{"What is a Credit or Debit Card"}-->3["What About Banks"]
+click 1 "../What_is_Money" "What is Money"
+click 2 "../How_the_US_Monetary_System_Works" "How the US Monetary System Works"
+click 3 "../What_About_Banks" "What About Banks"
 ```
 
 

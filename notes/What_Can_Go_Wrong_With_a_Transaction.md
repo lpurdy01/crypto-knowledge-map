@@ -9,6 +9,10 @@ graph LR
 0{"What Can Go Wrong With a Transaction"}-->2["Security Concerns For the Whole Network"]
 0{"What Can Go Wrong With a Transaction"}-->3["What is Self Custody"]
 0{"What Can Go Wrong With a Transaction"}-->4["What is an Exchange"]
+click 1 "../How_a_Transaction_Works" "How a Transaction Works"
+click 2 "../Security_Concerns_For_the_Whole_Network" "Security Concerns For the Whole Network"
+click 3 "../What_is_Self_Custody" "What is Self Custody"
+click 4 "../What_is_an_Exchange" "What is an Exchange"
 ```
 
 

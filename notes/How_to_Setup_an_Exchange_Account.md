@@ -11,6 +11,9 @@ graph LR
 1["What is an Exchange"]-->0{"How to Setup an Exchange Account"}
 2["Passwords Logins 2 Factor Authentication"]-->0{"How to Setup an Exchange Account"}
 0{"How to Setup an Exchange Account"}-->3["What is Self Custody"]
+click 1 "../What_is_an_Exchange" "What is an Exchange"
+click 2 "../Passwords_Logins_2_Factor_Authentication" "Passwords Logins 2 Factor Authentication"
+click 3 "../What_is_Self_Custody" "What is Self Custody"
 ```
 
 

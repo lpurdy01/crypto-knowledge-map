@@ -26,6 +26,15 @@ graph LR
 0{"What is Self Custody"}-->7["Security Concerns For Self Custody"]
 0{"What is Self Custody"}-->8["How to Increase Self Custody Security"]
 0{"What is Self Custody"}-->9["Update On Security"]
+click 1 "../What_is_a_Wallet" "What is a Wallet"
+click 2 "../How_a_Transaction_Works" "How a Transaction Works"
+click 3 "../What_Can_Go_Wrong_With_a_Transaction" "What Can Go Wrong With a Transaction"
+click 4 "../What_is_a_Blockchain_Explorer" "What is a Blockchain Explorer"
+click 5 "../How_to_Setup_an_Exchange_Account" "How to Setup an Exchange Account"
+click 6 "../What_About_Banks" "What About Banks"
+click 7 "../Security_Concerns_For_Self_Custody" "Security Concerns For Self Custody"
+click 8 "../How_to_Increase_Self_Custody_Security" "How to Increase Self Custody Security"
+click 9 "../Update_On_Security" "Update On Security"
 ```
 
 

@@ -7,6 +7,8 @@ None
 graph LR
 0{"What is Cryptography"}-->1["What is Ethereum"]
 0{"What is Cryptography"}-->2["What is Bitcoin"]
+click 1 "../What_is_Ethereum" "What is Ethereum"
+click 2 "../What_is_Bitcoin" "What is Bitcoin"
 ```
 
 

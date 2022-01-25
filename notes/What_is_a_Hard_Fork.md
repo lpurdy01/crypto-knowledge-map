@@ -20,6 +20,12 @@ graph LR
 4["What is an Update"]-->0{"What is a Hard Fork"}
 0{"What is a Hard Fork"}-->5["How Etherium Can Change"]
 0{"What is a Hard Fork"}-->6["How Do Cryptocurrencies Change"]
+click 1 "../What_is_a_Blockchain" "What is a Blockchain"
+click 2 "../What_is_a_Consensus_Mechanism" "What is a Consensus Mechanism"
+click 3 "../What_is_GIT" "What is GIT"
+click 4 "../What_is_an_Update" "What is an Update"
+click 5 "../How_Etherium_Can_Change" "How Etherium Can Change"
+click 6 "../How_Do_Cryptocurrencies_Change" "How Do Cryptocurrencies Change"
 ```
 
 

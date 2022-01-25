@@ -7,6 +7,8 @@
 graph LR
 1["How the US Government Views Crypto Assets"]-->0{"What are the Tax Implications"}
 0{"What are the Tax Implications"}-->2["Whats Going On With El Salvador"]
+click 1 "../How_the_US_Government_Views_Crypto_Assets" "How the US Government Views Crypto Assets"
+click 2 "../Whats_Going_On_With_El_Salvador" "Whats Going On With El Salvador"
 ```
 
 

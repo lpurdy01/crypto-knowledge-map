@@ -53,7 +53,7 @@ def find_wikilinks(file_path):
                 break
             elif found_prereqs and line.startswith('[['):
                 nice_file_name = strip_brackets(line.strip())
-                nice_file_name = nice_file_name.replace('_', ' ')
+                # nice_file_name = nice_file_name.replace('_', ' ')
                 wikilinks.append(nice_file_name)
     return wikilinks
 
@@ -86,8 +86,8 @@ def find_backlinks(directory, file_name):
                     break
                 elif found_prereqs and line.startswith('[['):
                     if file_name_expected in line:
-                        md_file_readable = md_file.replace('_', ' ')
-                        md_file_readable = md_file_readable.split('/')[-1]
+                        # md_file_readable = md_file.replace('_', ' ')
+                        md_file_readable = md_file.split('/')[-1]
                         md_file_readable = md_file_readable.split('.')[0]
                         backlinks.append(md_file_readable)
     return backlinks
@@ -106,7 +106,12 @@ def encapsulate_name(name):
     """
     Encapsulates a string in quotes and brackets
     """
-    return '[\"'+name+'\"]'
+    return '[\"'+make_markdown_filename_readable(name)+'\"]'
+
+
+def make_markdown_filename_readable(md_file):
+    md_file_readable = md_file.replace('_', ' ')
+    return md_file_readable
 
 
 def generate_subgraph(wikilinks, file_name, backlinks):
@@ -128,12 +133,24 @@ def generate_subgraph(wikilinks, file_name, backlinks):
     readable_file_name = file_name.replace('_', ' ')
     current_page_name = str(current_page_id)+'{\"'+gen_expected_filename(readable_file_name)+'\"}'
 
+    # add graph header
     graph = "```mermaid\ngraph LR\n"
+    # add each wikilink box
     for link in wikilinks:
         graph += str(connected_iterator)+encapsulate_name(link)+line_string+current_page_name+"\n"
         connected_iterator += 1
+    # add each backlink box
     for backlink in backlinks:
         graph += current_page_name+line_string+str(connected_iterator)+encapsulate_name(backlink)+"\n"
+        connected_iterator += 1
+    # add click to wikilinks
+    connected_iterator = 1
+    for link in wikilinks:
+        graph += "click " + str(connected_iterator) + ' \"../'+ link + '\" \"' + make_markdown_filename_readable(link)+ '\"' +"\n"
+        connected_iterator += 1
+    # add click to backlinks
+    for backlink in backlinks:
+        graph += "click " + str(connected_iterator) + ' \"../'+ backlink + '\" \"' + make_markdown_filename_readable(backlink)+ '\"' +"\n"
         connected_iterator += 1
     graph += "```\n\n"
     return graph

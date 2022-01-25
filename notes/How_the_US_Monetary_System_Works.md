@@ -13,6 +13,11 @@ graph LR
 0{"How the US Monetary System Works"}-->3["What About Banks"]
 0{"How the US Monetary System Works"}-->4["What is a Credit or Debit Card"]
 0{"How the US Monetary System Works"}-->5["What is a Layer 2"]
+click 1 "../What_is_Money" "What is Money"
+click 2 "../What_is_Money_Printing" "What is Money Printing"
+click 3 "../What_About_Banks" "What About Banks"
+click 4 "../What_is_a_Credit_or_Debit_Card" "What is a Credit or Debit Card"
+click 5 "../What_is_a_Layer_2" "What is a Layer 2"
 ```
 
 

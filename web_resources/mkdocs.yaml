@@ -15,6 +15,7 @@ plugins:
   - mermaid2:
       arguments:
         theme: dark
+        securityLevel: 'loose'
 
 markdown_extensions:
   - toc:

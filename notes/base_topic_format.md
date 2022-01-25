@@ -8,6 +8,7 @@ Example:
 ```mermaid
 graph LR
 1["README"]-->0{"base topic format"}
+click 1 "../README" "README"
 ```
 
 

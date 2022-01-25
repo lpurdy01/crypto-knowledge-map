@@ -14,6 +14,12 @@ graph LR
 0{"Update On Security"}-->4["The Blockchain Security Trilemma"]
 0{"Update On Security"}-->5["Security Concerns For Self Custody"]
 0{"Update On Security"}-->6["How to Increase Self Custody Security"]
+click 1 "../Passwords_Logins_2_Factor_Authentication" "Passwords Logins 2 Factor Authentication"
+click 2 "../What_is_Self_Custody" "What is Self Custody"
+click 3 "../Security_Concerns_For_Exchanges" "Security Concerns For Exchanges"
+click 4 "../The_Blockchain_Security_Trilemma" "The Blockchain Security Trilemma"
+click 5 "../Security_Concerns_For_Self_Custody" "Security Concerns For Self Custody"
+click 6 "../How_to_Increase_Self_Custody_Security" "How to Increase Self Custody Security"
 ```
 
 

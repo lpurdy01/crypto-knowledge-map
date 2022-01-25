@@ -22,6 +22,11 @@ graph LR
 3["What are Smart Contracts"]-->0{"What About Cross Chain"}
 4["What are Oracles"]-->0{"What About Cross Chain"}
 5["Other Tokens Exist"]-->0{"What About Cross Chain"}
+click 1 "../What_is_Bitcoin" "What is Bitcoin"
+click 2 "../What_is_Ethereum" "What is Ethereum"
+click 3 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 4 "../What_are_Oracles" "What are Oracles"
+click 5 "../Other_Tokens_Exist" "Other Tokens Exist"
 ```
 
 

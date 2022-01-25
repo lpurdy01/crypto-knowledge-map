@@ -18,6 +18,10 @@ graph LR
 2["What is DeFi"]-->0{"What are Stablecoins"}
 3["What is a DEX"]-->0{"What are Stablecoins"}
 4["What are Oracles"]-->0{"What are Stablecoins"}
+click 1 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 2 "../What_is_DeFi" "What is DeFi"
+click 3 "../What_is_a_DEX" "What is a DEX"
+click 4 "../What_are_Oracles" "What are Oracles"
 ```
 
 

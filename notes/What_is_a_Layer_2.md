@@ -23,6 +23,13 @@ graph LR
 5["How a Transaction Works"]-->0{"What is a Layer 2"}
 0{"What is a Layer 2"}-->6["What About Banks"]
 0{"What is a Layer 2"}-->7["What is the Lightning Network"]
+click 1 "../What_is_Money" "What is Money"
+click 2 "../How_the_US_Monetary_System_Works" "How the US Monetary System Works"
+click 3 "../What_is_a_Wallet" "What is a Wallet"
+click 4 "../What_is_Bitcoin" "What is Bitcoin"
+click 5 "../How_a_Transaction_Works" "How a Transaction Works"
+click 6 "../What_About_Banks" "What About Banks"
+click 7 "../What_is_the_Lightning_Network" "What is the Lightning Network"
 ```
 
 

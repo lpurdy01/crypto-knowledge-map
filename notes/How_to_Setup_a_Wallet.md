@@ -22,6 +22,12 @@ graph LR
 4["What is an Exchange"]-->0{"How to Setup a Wallet"}
 0{"How to Setup a Wallet"}-->5["How a Transaction Works"]
 0{"How to Setup a Wallet"}-->6["What is the Lightning Network"]
+click 1 "../What_are_Seeds_and_Public_Private_Keys" "What are Seeds and Public Private Keys"
+click 2 "../What_is_a_Wallet" "What is a Wallet"
+click 3 "../What_is_Bitcoin" "What is Bitcoin"
+click 4 "../What_is_an_Exchange" "What is an Exchange"
+click 5 "../How_a_Transaction_Works" "How a Transaction Works"
+click 6 "../What_is_the_Lightning_Network" "What is the Lightning Network"
 ```
 
 

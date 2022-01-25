@@ -11,6 +11,10 @@ graph LR
 0{"What is Property"}-->2["Proof of Stake vs Mining"]
 0{"What is Property"}-->3["What are NFTs"]
 0{"What is Property"}-->4["How the US Government Views Crypto Assets"]
+click 1 "../What_is_a_Consensus_Mechanism" "What is a Consensus Mechanism"
+click 2 "../Proof_of_Stake_vs_Mining" "Proof of Stake vs Mining"
+click 3 "../What_are_NFTs" "What are NFTs"
+click 4 "../How_the_US_Government_Views_Crypto_Assets" "How the US Government Views Crypto Assets"
 ```
 
 

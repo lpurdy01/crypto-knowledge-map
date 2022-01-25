@@ -10,6 +10,8 @@
 graph LR
 1["Update On Security"]-->0{"The Blockchain Security Trilemma"}
 2["Security Concerns For the Whole Network"]-->0{"The Blockchain Security Trilemma"}
+click 1 "../Update_On_Security" "Update On Security"
+click 2 "../Security_Concerns_For_the_Whole_Network" "Security Concerns For the Whole Network"
 ```
 
 

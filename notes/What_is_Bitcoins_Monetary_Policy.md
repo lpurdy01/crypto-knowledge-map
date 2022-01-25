@@ -22,6 +22,11 @@ graph LR
 3["What is Money Printing"]-->0{"What is Bitcoins Monetary Policy"}
 4["What is a Wallet"]-->0{"What is Bitcoins Monetary Policy"}
 5["What is Bitcoin"]-->0{"What is Bitcoins Monetary Policy"}
+click 1 "../Blockchain" "Blockchain"
+click 2 "../What_is_Mining" "What is Mining"
+click 3 "../What_is_Money_Printing" "What is Money Printing"
+click 4 "../What_is_a_Wallet" "What is a Wallet"
+click 5 "../What_is_Bitcoin" "What is Bitcoin"
 ```
 
 

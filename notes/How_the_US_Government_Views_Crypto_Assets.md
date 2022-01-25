@@ -8,6 +8,9 @@ graph LR
 1["What is Property"]-->0{"How the US Government Views Crypto Assets"}
 0{"How the US Government Views Crypto Assets"}-->2["What are the Tax Implications"]
 0{"How the US Government Views Crypto Assets"}-->3["Whats Going On With El Salvador"]
+click 1 "../What_is_Property" "What is Property"
+click 2 "../What_are_the_Tax_Implications" "What are the Tax Implications"
+click 3 "../Whats_Going_On_With_El_Salvador" "Whats Going On With El Salvador"
 ```
 
 

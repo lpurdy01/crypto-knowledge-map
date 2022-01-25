@@ -8,6 +8,9 @@ graph LR
 1["How Do Cryptocurrencies Change"]-->0{"How to Keep Up With Change"}
 0{"How to Keep Up With Change"}-->2["How Etherium Can Change"]
 0{"How to Keep Up With Change"}-->3["What is the Lightning Network"]
+click 1 "../How_Do_Cryptocurrencies_Change" "How Do Cryptocurrencies Change"
+click 2 "../How_Etherium_Can_Change" "How Etherium Can Change"
+click 3 "../What_is_the_Lightning_Network" "What is the Lightning Network"
 ```
 
 

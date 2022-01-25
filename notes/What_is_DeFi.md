@@ -7,6 +7,8 @@
 graph LR
 1["What are Smart Contracts"]-->0{"What is DeFi"}
 0{"What is DeFi"}-->2["What are Stablecoins"]
+click 1 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 2 "../What_are_Stablecoins" "What are Stablecoins"
 ```
 
 

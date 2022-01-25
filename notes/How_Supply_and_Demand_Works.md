@@ -9,6 +9,10 @@ graph LR
 0{"How Supply and Demand Works"}-->2["How Ethereum Is Valued Differently"]
 0{"How Supply and Demand Works"}-->3["What is an Exchange"]
 0{"How Supply and Demand Works"}-->4["What are Markets"]
+click 1 "../What_is_a_DEX" "What is a DEX"
+click 2 "../How_Ethereum_Is_Valued_Differently" "How Ethereum Is Valued Differently"
+click 3 "../What_is_an_Exchange" "What is an Exchange"
+click 4 "../What_are_Markets" "What are Markets"
 ```
 
 

@@ -18,6 +18,17 @@ graph LR
 0{"What is a Blockchain"}-->9["What is Mining"]
 0{"What is a Blockchain"}-->10["What are Smart Contracts"]
 0{"What is a Blockchain"}-->11["What is a Wallet"]
+click 1 "../What_is_a_Ledger" "What is a Ledger"
+click 2 "../What_is_Ethereum" "What is Ethereum"
+click 3 "../What_is_a_Blockchain_Explorer" "What is a Blockchain Explorer"
+click 4 "../What_is_Self_Custody" "What is Self Custody"
+click 5 "../What_is_an_Exchange" "What is an Exchange"
+click 6 "../How_a_Transaction_Works" "How a Transaction Works"
+click 7 "../What_is_a_Hard_Fork" "What is a Hard Fork"
+click 8 "../What_is_Bitcoin" "What is Bitcoin"
+click 9 "../What_is_Mining" "What is Mining"
+click 10 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 11 "../What_is_a_Wallet" "What is a Wallet"
 ```
 
 

@@ -10,6 +10,11 @@ graph LR
 0{"What is Distributed Storage"}-->3["How a Transaction Works"]
 0{"What is Distributed Storage"}-->4["What are Smart Contracts"]
 0{"What is Distributed Storage"}-->5["What is a Consensus Mechanism"]
+click 1 "../What_is_Ethereum" "What is Ethereum"
+click 2 "../What_is_a_Blockchain_Explorer" "What is a Blockchain Explorer"
+click 3 "../How_a_Transaction_Works" "How a Transaction Works"
+click 4 "../What_are_Smart_Contracts" "What are Smart Contracts"
+click 5 "../What_is_a_Consensus_Mechanism" "What is a Consensus Mechanism"
 ```
 
 

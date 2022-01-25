@@ -9,6 +9,10 @@ graph LR
 0{"What is GIT"}-->2["What is a Hard Fork"]
 0{"What is GIT"}-->3["What is the Lightning Network"]
 0{"What is GIT"}-->4["How Do Cryptocurrencies Change"]
+click 1 "../How_Etherium_Can_Change" "How Etherium Can Change"
+click 2 "../What_is_a_Hard_Fork" "What is a Hard Fork"
+click 3 "../What_is_the_Lightning_Network" "What is the Lightning Network"
+click 4 "../How_Do_Cryptocurrencies_Change" "How Do Cryptocurrencies Change"
 ```
 
 

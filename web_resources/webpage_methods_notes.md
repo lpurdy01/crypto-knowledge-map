@@ -35,6 +35,23 @@ https://github.com/jobindj/obsidian-publish-mkdocs
 
 Yep, it looks like instead of using wikilinks extension you should use roamlinks plugin
 
+It looks like you can add links to the graphs in the markdown files:
+[How to add a link in a mermaid node description?](https://stackoverflow.com/questions/41960529/how-to-add-a-link-in-a-mermaid-node-description)
+[Adding Hyperlinks to a Diagram (versions of Mermaid javascript >~ 8.5.0)](https://github.com/fralau/mkdocs-mermaid2-plugin#adding-hyperlinks-to-a-diagram-versions-of-mermaid-javascript--850)
+
+
+Template test graph:
+```mermaid
+graph LR
+1["What is a Blockchain"]-->0{"What is a Hard Fork"}
+2["What is a Consensus Mechanism"]-->0{"What is a Hard Fork"}
+3["What is GIT"]-->0{"What is a Hard Fork"}
+4["What is an Update"]-->0{"What is a Hard Fork"}
+0{"What is a Hard Fork"}-->5["How Etherium Can Change"]
+0{"What is a Hard Fork"}-->6["How Do Cryptocurrencies Change"]
+click 1 "../What_is_an_Update" "What is an Update"
+```
+
 ### Command to run mkdocs
 ``
 mkdocs serve
