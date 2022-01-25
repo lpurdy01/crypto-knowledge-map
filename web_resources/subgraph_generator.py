@@ -28,6 +28,8 @@ import glob
 
 subgraph_section_string = "# Subgraph"
 
+prerequisites_section_string = "# Prerequisites"
+
 
 def strip_brackets(string):
     """
@@ -46,7 +48,7 @@ def find_wikilinks(file_path):
     wikilinks = []
     with open(file_path, 'r') as f:
         for line in f:
-            if line.startswith('# Prerequisites'):
+            if line.startswith(prerequisites_section_string):
                 found_prereqs = True
                 continue
             if found_prereqs and line.startswith('# Description'):
@@ -79,7 +81,7 @@ def find_backlinks(directory, file_name):
         with open(md_file, 'r') as f:
             found_prereqs = False
             for line in f:
-                if line.startswith('# Prerequisites'):
+                if line.startswith(prerequisites_section_string):
                     found_prereqs = True
                     continue
                 if found_prereqs and line.startswith('# Description'):
@@ -187,7 +189,6 @@ def main():
     md_files_directory = "../notes"
     md_file_list = list_markdown_files(md_files_directory)
 
-    # TODO: fix "A Learning Order" showing up in backlinks. Something wrong with prerequisites exclusion
     for md_file in md_file_list:
         wikilinks = find_wikilinks(md_file)
         backlinks = find_backlinks(md_files_directory, md_file)
