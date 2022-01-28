@@ -1,10 +1,12 @@
-site_name: crypto-knowledge-map
+site_name: Crypto Knowledge Map
 repo_url: https://github.com/lpurdy01/crypto-knowledge-map
 edit_uri: edit/main/notes/
 site_author: Levi Purdy
 docs_dir: ../notes
 theme:
   name: material
+  logo: logo.svg
+  favicon: logo.svg
   palette:
     scheme: slate
     primary: deep orange
@@ -19,8 +21,8 @@ plugins:
 
 markdown_extensions:
   - toc:
-      separator: "_"
       permalink: true
+
 nav:
   - Learning Order: A_Learning_Order.md
   - Learning Order Graph: Learning_Order_Graph.md

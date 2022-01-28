@@ -1,3 +1,5 @@
+It is pretty big, still working on the web UI. You might have to zoom in. I would really appreciate a fix for this if you have one!
+
 ```mermaid
 graph LR
 What_is_GIT["What is GIT"]-->How_Etherium_Can_Change["How Etherium Can Change"]

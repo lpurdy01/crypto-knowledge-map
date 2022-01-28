@@ -72,5 +72,5 @@ mkdocs gh-deploy
 - Have a link checker that tests all links in the website
 - Make a nice logo for the top right hand corner
 - done:Figure out how to make the links work correctly
-- backlinks work if there are no prerequisites. Fix that.
+- done:backlinks work if there are no prerequisites. Fix that.
 - 

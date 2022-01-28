@@ -73,7 +73,8 @@ def gen_decending_mermaid_graph_from_digraph(graph):
     line_string = '-->'
 
     # add graph header
-    graph_text = "```mermaid\ngraph LR\n"
+    graph_text = "It is pretty big, still working on the web UI. You might have to zoom in." \
+                 " I would really appreciate a fix for this if you have one!\n\n```mermaid\ngraph LR\n"
 
     # you can probably use the node name as the id in mermaid, so an iterator isn't needed.
     if not graph.is_directed():
