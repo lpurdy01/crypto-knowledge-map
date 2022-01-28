@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A_Learning_Order.md",
+            "file": "Why_Build_This.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A_Learning_Order.md",
+                "file": "Why_Build_This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "fa45be5765fedea9",
   "lastOpenFiles": [
+    "Why_Build_This.md",
     "A_Learning_Order.md",
     "base_topic_format.md",
     "README.md",
@@ -96,7 +97,6 @@
     "What_is_Bitcoins_Monetary_Policy.md",
     "Blockchain.md",
     "webpage_methods_notes.md",
-    "How_Ethereum_Is_Valued_Differently.md",
-    "How_a_Transaction_Works.md"
+    "How_Ethereum_Is_Valued_Differently.md"
   ]
 }
