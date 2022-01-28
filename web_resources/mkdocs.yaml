@@ -23,6 +23,7 @@ markdown_extensions:
       permalink: true
 nav:
   - Learning Order: A_Learning_Order.md
+  - Learning Order Graph: Learning_Order_Graph.md
   - Base Concepts:
       - What is Git: What_is_GIT.md
       - What is a Ledger: What_is_a_Ledger.md

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What_is_an_Exchange.md",
-            "mode": "preview"
+            "file": "What_is_Bitcoins_Monetary_Policy.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[Blockch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What_is_an_Exchange.md",
+                "file": "What_is_Bitcoins_Monetary_Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "fa45be5765fedea9",
   "lastOpenFiles": [
+    "What_is_Bitcoins_Monetary_Policy.md",
+    "Blockchain.md",
+    "Learning_Order_Graph.md",
+    "webpage_methods_notes.md",
+    "How_Ethereum_Is_Valued_Differently.md",
+    "How_a_Transaction_Works.md",
+    "A_Learning_Order.md",
     "What_is_an_Exchange.md",
     "What_is_a_Consensus_Mechanism.md",
-    "What_are_Markets.md",
-    "What_are_Oracles.md",
-    "Update_On_Security.md",
-    "Security_Concerns_For_Exchanges.md",
-    "Passwords_Logins_2_Factor_Authentication.md",
-    "How_to_Setup_a_Wallet.md",
-    "How_the_US_Government_Views_Crypto_Assets.md",
-    "The_Blockchain_Security_Trilemma.md"
+    "What_are_Markets.md"
   ]
 }

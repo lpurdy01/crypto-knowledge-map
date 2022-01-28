@@ -52,6 +52,10 @@ graph LR
 click 1 "../What_is_an_Update" "What is an Update"
 ```
 
+Working on getting the complete learning graph to look better:
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '100px', 'fontFamily': 'Inter'}}}%%
+
+
 ### Command to run mkdocs
 ``
 mkdocs serve

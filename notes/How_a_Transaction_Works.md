@@ -13,9 +13,6 @@
 
 [[What_are_Seeds_and_Public_Private_Keys]]
 
-
-[[How_to_Setup_a_Wallet]]
-
 # Subgraph
 
 ```mermaid

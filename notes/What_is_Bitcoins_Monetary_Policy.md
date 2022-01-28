@@ -1,6 +1,4 @@
 # Prerequisites
-[[Blockchain]]
-
 
 [[What_is_Mining]]
 

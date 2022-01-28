@@ -30,6 +30,8 @@ subgraph_section_string = "# Subgraph"
 
 prerequisites_section_string = "# Prerequisites"
 
+line_string = '-->'
+
 
 def strip_brackets(string):
     """
@@ -42,7 +44,6 @@ def find_wikilinks(file_path):
     """
     Returns a list of wikilinks in a markdown file.
     Only searches after the "# Prerequisites" section and before the "# Description" section
-
     """
     found_prereqs = False
     wikilinks = []
@@ -128,7 +129,6 @@ def generate_subgraph(wikilinks, file_name, backlinks):
     0-->4["How to keep up with change"]
     ```
     """
-    line_string = '-->'
     connected_iterator = 1
     current_page_id = 0
     # use expected file name
