@@ -49,7 +49,7 @@ If you are on the website and want to:
 Click the ![edit icon](edit_icon.png) at the top right of whatever page you want. All you need is a free GitHub account to suggest an edit.   
   
 ## Making it Your Own  
-If you like how this knowledgebase is laid out and want to use it on your journey fork and clone this git repository. From there you can open the ```notes``` folder as a vault and go to town.  
+If you like how [this](https://github.com/lpurdy01/crypto-knowledge-map) knowledgebase is laid out and want to use it on your journey fork and clone this git repository. From there you can open the ```notes``` folder as a vault and go to town.  
   
 ## Web Resources  
 In [the repository](https://github.com/lpurdy01/crypto-knowledge-map) under the ```web_resources``` folder there are the Python scripts used to prepare the markdown flies for MkDocs processing, and generate the graphs for the web version.   
