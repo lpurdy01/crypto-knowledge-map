@@ -5,6 +5,7 @@ site_author: Levi Purdy
 docs_dir: ../notes
 theme:
   name: material
+  custom_dir: overrides
   logo: logo.svg
   favicon: logo.svg
   palette:
